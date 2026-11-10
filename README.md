@@ -34,8 +34,8 @@ The goal is not to create a generic directory of websites or gather popular serv
 
 The content is organized into two versions:
 
-- `README.md`: content in English.
-- `README.pt-BR.md`: content in Brazilian Portuguese.
+- `en.md`: content in English.
+- `pt-BR.md`: content in Brazilian Portuguese.
 
 Content originally published in a given language should appear only in the corresponding file. Language-independent resources may appear in both versions.
 
