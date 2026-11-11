@@ -359,3 +359,118 @@
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF?utm_source=chatgpt.com): Aplicação web para manipulação de arquivos PDF, oferecendo recursos de edição, conversão, junção, divisão e OCR, com possibilidade de hospedagem própria.
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR?utm_source=chatgpt.com): Software gratuito e offline para reconhecimento óptico de caracteres (OCR), com suporte a capturas de tela, processamento em lote de imagens e reconhecimento de documentos PDF.
 - [Anydoc](https://github.com/firecrawl/anydoc?utm_source=chatgpt.com): Conversor de documentos para Markdown, com suporte a Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV e PDF.
+
+## Inteligência Artificial, Agentes e Automação
+
+- [anthropics/skills](https://github.com/anthropics/skills?utm_source=chatgpt.com): Coleção pública de habilidades para agentes de IA, com instruções e fluxos reutilizáveis para ampliar suas capacidades.
+- [google/skills](https://github.com/google/skills?utm_source=chatgpt.com): Habilidades para agentes de IA voltadas a produtos, serviços e tecnologias do ecossistema Google.
+- [vercel-labs/skills](https://github.com/vercel-labs/skills?utm_source=chatgpt.com): Ferramenta aberta para descobrir, instalar e gerenciar habilidades de agentes de IA por meio do comando `npx skills`.
+- [mattpocock/skills](https://github.com/mattpocock/skills?utm_source=chatgpt.com): Coleção de habilidades e práticas para agentes de desenvolvimento, baseada em fluxos de trabalho de engenharia de software.
+- [remotion-dev/skills](https://github.com/remotion-dev/skills?utm_source=chatgpt.com): Habilidades para agentes de IA criarem e manipularem vídeos com o framework Remotion.
+- [DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices?utm_source=chatgpt.com): Guia independente de provedor com boas práticas para projetar agentes, fluxos agênticos e ambientes de execução como Codex e Claude Code.
+- [chaseai-yt/claudex-loop](https://github.com/chaseai-yt/claudex-loop?utm_source=chatgpt.com): Habilidade para Claude Code que estrutura o planejamento de tarefas em etapas de investigação, questionamento, revisão adversarial e implementação cruzada entre modelos.
+- [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness?utm_source=chatgpt.com): Ambiente de execução baseado em agentes para apoiar o aprendizado de assuntos complexos.
+- [rudderlabs/devbox](https://github.com/rudderlabs/devbox?utm_source=chatgpt.com): Ambiente isolado em nuvem para execução autônoma de tarefas de engenharia, com um sandbox independente para cada atividade.
+- [different-ai/openwork](https://github.com/different-ai/openwork?utm_source=chatgpt.com): Alternativa de código aberto ao Claude Cowork, baseada no OpenCode, para delegar tarefas a agentes de IA.
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight?utm_source=chatgpt.com): Sistema de memória para agentes de IA que aprende continuamente a partir das interações e informações armazenadas.
+- [anysearch-ai/anysearch-skill](https://github.com/anysearch-ai/anysearch-skill?utm_source=chatgpt.com): Habilidade de busca em tempo real para agentes, com pesquisa na web, consultas especializadas, execução paralela e extração de conteúdo.
+- [experientiallabs/experiential](https://github.com/experientiallabs/experiential?utm_source=chatgpt.com): Gateway de modelos de IA que permite utilizar provedores próprios ou modelos hospedados, com suporte a implantação local, marketplace e otimização de custos.
+- [trycompai/crm](https://github.com/trycompai/crm?utm_source=chatgpt.com): CRM de código aberto projetado para interação e operação por agentes de inteligência artificial.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode?utm_source=chatgpt.com): Agente de programação de código aberto para auxiliar no desenvolvimento de software.
+- [fabro-sh/fabro](https://github.com/fabro-sh/fabro?utm_source=chatgpt.com): Plataforma de engenharia de software orientada a agentes, voltada à automação de fluxos de desenvolvimento.
+- [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp?utm_source=chatgpt.com): Integração MCP para conectar agentes de IA ao Excalidraw e permitir a criação e manipulação de diagramas.
+- [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts?utm_source=chatgpt.com): Habilidade para Claude que automatiza a criação de vídeos curtos com histórias animadas, combinando Three.js e Remotion.
+- [FavioVazquez/showtime](https://github.com/FavioVazquez/showtime?utm_source=chatgpt.com): Estúdio local de produção de vídeos controlado por agentes de programação, com renderização na própria máquina e suporte a narração, legendas e animações.
+- [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx?utm_source=chatgpt.com): Biblioteca com efeitos de pixel art implementados em código, além de recursos para criar novos efeitos com agentes de programação.
+
+## Inteligência Artificial, Machine Learning e Processamento de Mídia
+
+- [speridlabs/idol-sdk](https://github.com/speridlabs/idol-sdk?utm_source=chatgpt.com): SDK e demonstração para converter uma única imagem em uma representação tridimensional baseada em 3D Gaussian Splatting.
+- [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR?utm_source=chatgpt.com): Modelo de inteligência artificial para extração de informações de documentos, combinando OCR e modelos de linguagem e visão.
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI?utm_source=chatgpt.com): Plataforma de geração e edição de imagens com modelos de difusão, oferecendo recursos de criação a partir de texto, transformação de imagens e preenchimento de áreas.
+- [openai/whisper](https://github.com/openai/whisper?utm_source=chatgpt.com): Modelo de reconhecimento automático de fala capaz de transcrever áudio em diferentes idiomas.
+- [chiphuyen/dmls-book](https://github.com/chiphuyen/dmls-book?utm_source=chatgpt.com): Resumos, referências e materiais complementares do livro Designing Machine Learning Systems, sobre projeto e operação de sistemas de machine learning.
+- [ageron/handson-ml3](https://github.com/ageron/handson-ml3?utm_source=chatgpt.com): Conjunto de notebooks práticos para aprender Machine Learning e Deep Learning com Python, Scikit-Learn, Keras e TensorFlow.
+- [openai/math](https://github.com/openai/math?utm_source=chatgpt.com): Projeto relacionado à formalização e verificação de conceitos matemáticos utilizando Lean.
+
+## Desenvolvimento de Software e Engenharia
+
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp?utm_source=chatgpt.com): Plataforma educacional de código aberto com cursos e exercícios gratuitos de programação, matemática e ciência da computação.
+- [storytold/craft-anything](https://github.com/storytold/craft-anything?utm_source=chatgpt.com): Projeto voltado à compreensão do funcionamento de aplicações existentes e à criação de implementações próprias a partir desse conhecimento.
+- [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL?utm_source=chatgpt.com): Framework em C# para desenvolvimento de jogos e criação de engines, com acesso direto a APIs nativas e Vulkan.
+- [dotnet/roslyn](https://github.com/dotnet/roslyn?utm_source=chatgpt.com): Plataforma de compiladores .NET para C# e Visual Basic, incluindo APIs de análise, compilação e ferramentas de desenvolvimento.
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir?utm_source=chatgpt.com): Linguagem de programação funcional projetada para aplicações concorrentes, distribuídas e escaláveis.
+- [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet?utm_source=chatgpt.com): Coleção de conceitos, princípios e ferramentas de Clean Code adaptados ao desenvolvimento com .NET.
+- [github/gitignore](https://github.com/github/gitignore?utm_source=chatgpt.com): Coleção de modelos de arquivos `.gitignore` para diferentes linguagens, frameworks e ferramentas.
+- [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable?utm_source=chatgpt.com): Ferramenta para recriar sites existentes como aplicações modernas em React, utilizando inteligência artificial.
+- [HeyPuter/everything](https://github.com/HeyPuter/everything?utm_source=chatgpt.com): Iniciativa de reconstrução e disponibilização de softwares e aplicações populares como projetos de código aberto.
+- [deepfounder-ai/desigma](https://github.com/deepfounder-ai/desigma?utm_source=chatgpt.com): Alternativa de código aberto ao Figma, desenvolvida em Rust para criação e edição de interfaces e designs.
+- [shaongitbd/doory](https://github.com/shaongitbd/doory?utm_source=chatgpt.com): Editor gráfico colaborativo de código aberto, com recursos semelhantes ao Canva e suporte a edição compartilhada.
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad?utm_source=chatgpt.com): Ferramenta que utiliza inteligência artificial para transformar descrições textuais em modelos CAD de produtos físicos.
+- [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything?utm_source=chatgpt.com): Ferramenta para reconstruir ambientes tridimensionais editáveis a partir de imagens e dados LiDAR capturados por iPhone, com visualização em Three.js.
+- [microsoft/markitdown](https://github.com/microsoft/markitdown?utm_source=chatgpt.com): Biblioteca Python para converter documentos e arquivos de diferentes formatos, incluindo documentos do Office e PDFs, em Markdown.
+- [storytold/wordcraft](https://github.com/storytold/wordcraft?utm_source=chatgpt.com): Processador de texto de código aberto, implementado em Rust.
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university?utm_source=chatgpt.com): Plano estruturado de estudos de ciência da computação, algoritmos e estruturas de dados para preparação de entrevistas técnicas.
+- [nitoba/questions](https://github.com/nitoba/questions?utm_source=chatgpt.com): Repositório de perguntas e respostas para consulta e estudo.
+- [kimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs?utm_source=chatgpt.com): Lista selecionada de blogs de engenharia de software e tecnologia, com conteúdos de profissionais e equipes de desenvolvimento.
+- [Michael0x2a/curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources?utm_source=chatgpt.com): Coleção organizada de materiais e referências para aprendizado de programação.
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love?utm_source=chatgpt.com): Repositório de artigos acadêmicos e publicações relevantes para a comunidade de ciência da computação.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books?utm_source=chatgpt.com): Catálogo colaborativo de livros gratuitos sobre programação e desenvolvimento de software.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap?utm_source=chatgpt.com): Mapas de aprendizado interativos, guias e trilhas de desenvolvimento profissional para diferentes especialidades de tecnologia.
+- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios?utm_source=chatgpt.com): Coleção de portfólios de desenvolvedores para referência e inspiração na construção de apresentações profissionais.
+- [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives?utm_source=chatgpt.com): Lista de alternativas de código aberto para produtos SaaS e ferramentas comerciais do cotidiano.
+- [996icu/996.ICU](https://github.com/996icu/996.ICU?utm_source=chatgpt.com): Repositório criado como manifestação contra jornadas de trabalho excessivas na indústria de tecnologia.
+
+## Arquitetura de Soluções e Comunidade Técnica
+
+- [NikAshanin/Solution-Architect-Road-Map](https://github.com/NikAshanin/Solution-Architect-Road-Map?utm_source=chatgpt.com): Roteiro de desenvolvimento profissional para arquitetos de soluções, com competências e conhecimentos necessários à função.
+- [unlight/solution-architecture](https://github.com/unlight/solution-architecture?utm_source=chatgpt.com): Coleção de artigos, livros, vídeos e referências sobre arquitetura de soluções e arquitetura de software.
+- [agenda-tech-brasil/agenda-tech-brasil](https://github.com/agenda-tech-brasil/agenda-tech-brasil?utm_source=chatgpt.com): Agenda colaborativa de eventos de tecnologia realizados no Brasil.
+- [GamuxUnicamp/Gamux-Wiki](https://github.com/GamuxUnicamp/Gamux-Wiki?utm_source=chatgpt.com): Wiki da comunidade Gamux da Unicamp, com informações e materiais relacionados às suas atividades.
+
+## Infraestrutura, Dados e Observabilidade
+
+- [AutoMQ/automq](https://github.com/AutoMQ/automq?utm_source=chatgpt.com): Implementação de Kafka com armazenamento desacoplado baseado em S3, oferecendo escalabilidade automática e redução de custos de infraestrutura.
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii?utm_source=chatgpt.com): Aplicação de gestão financeira pessoal para controlar receitas, despesas, orçamentos, contas e fluxo de caixa.
+- [whoisyurii/checkmygit](https://github.com/whoisyurii/checkmygit?utm_source=chatgpt.com): Ferramenta para visualizar e compartilhar estatísticas e informações de perfis do GitHub.
+- [hieunc229/mailflare](https://github.com/hieunc229/mailflare?utm_source=chatgpt.com): Plataforma de e-mail para profissionais e equipes, baseada em tecnologias da Cloudflare.
+- [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream?utm_source=chatgpt.com): Servidor de streaming de música auto-hospedado para disponibilizar e reproduzir coleções musicais pela rede.
+- [ZapYap-com/note67](https://github.com/ZapYap-com/note67?utm_source=chatgpt.com): Assistente local e privado para registrar reuniões, transcrever áudio com Whisper e gerar resumos automaticamente.
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio?utm_source=chatgpt.com): Software de código aberto para gravação de tela, captura de vídeo e transmissão ao vivo.
+
+## Segurança, Análise e Inteligência Geoespacial
+
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra?utm_source=chatgpt.com): Framework de engenharia reversa para análise de binários, descompilação e investigação de software.
+- [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill?utm_source=chatgpt.com): Habilidade para Claude Code que auxilia na engenharia reversa e análise de aplicações Android.
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view?utm_source=chatgpt.com): Simulador geoespacial baseado em globo tridimensional que reúne dados públicos de satélites, voos e outras fontes de inteligência geográfica.
+
+## Robótica, CAD e Simulação
+
+- [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck?utm_source=chatgpt.com): Projeto de um pequeno robô bípede em formato de pato, voltado à experimentação com robótica.
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad?utm_source=chatgpt.com): Geração de modelos CAD de produtos físicos a partir de descrições em linguagem natural.
+
+## Desenvolvimento de Jogos e Engines
+
+- [ZQuestClassic/ZQuestClassic](https://github.com/ZQuestClassic/ZQuestClassic?utm_source=chatgpt.com): Engine de código aberto para criação de jogos inspirados nos títulos clássicos de Zelda para NES.
+- [miki151/keeperrl](https://github.com/miki151/keeperrl?utm_source=chatgpt.com): Código-fonte de KeeperRL, jogo de estratégia que combina construção de fortalezas, gerenciamento e elementos roguelike.
+- [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD?utm_source=chatgpt.com): Jogo de simulação e estratégia de transporte inspirado em Transport Tycoon Deluxe, no qual o jogador constrói e administra redes de transporte.
+- [OpenMW/openmw](https://github.com/OpenMW/openmw?utm_source=chatgpt.com): Engine de RPG de mundo aberto compatível com The Elder Scrolls III: Morrowind, desenvolvida como alternativa de código aberto à engine original.
+- [ryzom/ryzomcore](https://github.com/ryzom/ryzomcore?utm_source=chatgpt.com): Framework de código aberto para desenvolvimento de jogos MMORPG, incluindo componentes de cliente, servidor e engine.
+- [Meridian59/Meridian59](https://github.com/Meridian59/Meridian59?utm_source=chatgpt.com): Código-fonte do MMORPG Meridian 59, um dos projetos históricos de jogos online multiplayer.
+- [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth?utm_source=chatgpt.com): Jogo de estratégia por turnos em um universo de fantasia medieval, com campanhas, cenários e suporte a modificações.
+- [FreeCol/freecol](https://github.com/FreeCol/freecol?utm_source=chatgpt.com): Jogo de estratégia por turnos inspirado em Colonization, no qual o jogador explora territórios e constrói uma nação independente.
+- [Interkarma/daggerfall-unity](https://github.com/Interkarma/daggerfall-unity?utm_source=chatgpt.com): Reimplementação de The Elder Scrolls II: Daggerfall utilizando a engine Unity.
+- [NetHack/NetHack](https://github.com/NetHack/NetHack?utm_source=chatgpt.com): Código-fonte de NetHack, clássico jogo do gênero roguelike baseado em exploração de masmorras.
+- [id-Software/wolf3d](https://github.com/id-Software/wolf3d?utm_source=chatgpt.com): Código-fonte da versão original de Wolfenstein 3D, disponibilizado como software de código aberto.
+- [id-Software/Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena?utm_source=chatgpt.com): Código-fonte de Quake III Arena, jogo de tiro em primeira pessoa disponibilizado sob licença GPL.
+- [id-Software/Quake-2](https://github.com/id-Software/Quake-2?utm_source=chatgpt.com): Código-fonte de Quake II, disponibilizado sob licença GPL para estudo e desenvolvimento.
+- [id-Software/Quake](https://github.com/id-Software/Quake?utm_source=chatgpt.com): Código-fonte do jogo Quake, disponibilizado sob licença GPL.
+- [id-Software/DOOM](https://github.com/id-Software/DOOM?utm_source=chatgpt.com): Código-fonte de DOOM, clássico jogo de tiro em primeira pessoa, disponibilizado como software de código aberto.
+- [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky?utm_source=chatgpt.com): Jogo de exploração espacial com comércio, combate e descoberta de sistemas estelares.
+
+## Documentos, Design e Ferramentas Criativas
+
+- [presenton](https://github.com/presenton/presenton?utm_source=chatgpt.com): Plataforma de código aberto para criação de apresentações com recursos de inteligência artificial.
+- [microsoft/markitdown](https://github.com/microsoft/markitdown?utm_source=chatgpt.com): Conversor de documentos para Markdown, facilitando a extração e reutilização de conteúdo textual.
+- [shaongitbd/doory](https://github.com/shaongitbd/doory?utm_source=chatgpt.com): Alternativa de código aberto ao Canva para criação e edição colaborativa de materiais gráficos.
+- [deepfounder-ai/desigma](https://github.com/deepfounder-ai/desigma?utm_source=chatgpt.com): Ferramenta de design de interfaces e protótipos que oferece uma alternativa aberta ao Figma.
