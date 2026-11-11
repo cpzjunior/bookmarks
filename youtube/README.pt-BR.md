@@ -31,9 +31,9 @@
 
 ## Desenvolvimento local
 
-- [Desenvolvimento local usando AWS com Localstack](https://www.youtube.com/watch?v=1ow0NQv5Fsk)
-- [Serverless .NET: API Gateway → Lambda → SNS/SQS (End-to-End)](https://www.youtube.com/watch?v=3MljS7isZD8)
-- [SIMULANDO AWS COM LOCALSTACK E TERRAFORM: GUIA COMPLETO](https://www.youtube.com/watch?v=0nU9yvqg2Rw)
+- [Desenvolvimento local usando AWS com Localstack](https://www.youtube.com/watch?v=1ow0NQv5Fsk): Demonstração prático-teórica do uso do LocalStack para simular serviços da AWS (como EC2, S3, DynamoDB, Lambda, SQS e Step Functions) localmente via Docker, permitindo testes e provisionamento offline sem custos.
+- [Serverless .NET: API Gateway → Lambda → SNS/SQS (End-to-End)](https://www.youtube.com/watch?v=3MljS7isZD8): Explicação passo a passo da construção de uma arquitetura serverless em .NET (utilizando .NET Aspire, AWS Lambda, API Gateway, SNS e SQS) com testes locais e instrumentação via OpenTelemetry.
+- [SIMULANDO AWS COM LOCALSTACK E TERRAFORM: GUIA COMPLETO](https://www.youtube.com/watch?v=0nU9yvqg2Rw): Guia completo sobre como integrar o LocalStack com o Terraform para provisionar e gerenciar infraestrutura simulada da AWS na própria máquina, evitando gastos e custos em nuvem.
 
 ## Front-end
 
