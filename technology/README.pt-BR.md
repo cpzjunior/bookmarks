@@ -1,0 +1,1 @@
+- [Project NOMAD](https://www.projectnomad.us/) - Servidor open source de conhecimento e educação offline, que reúne Wikipedia, mapas, cursos e assistente de IA local. Permite acessar esses recursos sem conexão com a internet, utilizando hardware próprio.
