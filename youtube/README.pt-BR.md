@@ -26,8 +26,8 @@
 ## Banco de dados
 
 - [I replaced my entire stack with Postgres (The Coding Gopher)](https://www.youtube.com/watch?v=TdondBmyNXc): Exploração de como o PostgreSQL pode ser estendido com extensões e recursos avançados (como JSONB, PG Vector, Full-Text Search e filas nativas) para substituir ferramentas e serviços externos de uma aplicação.
-- [O QUE NINGUÉM TE ENSINOU SOBRE BUSCAS INTELIGENTES NO BANCO DE DADOS](https://www.youtube.com/watch?v=UYOr-rpQs1I)
-- [Postgres Just Got It's Biggest Upgrade In Years](https://www.youtube.com/watch?v=4Lmqvn_yz-c)
+- [O QUE NINGUÉM TE ENSINOU SOBRE BUSCAS INTELIGENTES NO BANCO DE DADOS](https://www.youtube.com/watch?v=UYOr-rpQs1I): Exploração das limitações do operador LIKE e de como implementar buscas eficientes e inteligentes utilizando Full-Text Search no MySQL e no PostgreSQL (com índices GIN, lexemas e relevância).
+- [Postgres Just Got It's Biggest Upgrade In Years](https://www.youtube.com/watch?v=4Lmqvn_yz-c): Apresentação da extensão PG Durable (desenvolvida pela Microsoft), que permite gerenciar funções duráveis, filas, agendamentos e fluxos de trabalho complexos diretamente dentro do PostgreSQL.
 
 ## Desenvolvimento local
 
