@@ -34,8 +34,8 @@ A proposta não é criar um diretório genérico de sites ou reunir serviços po
 
 O conteúdo é organizado em duas versões:
 
-- `en.md`: conteúdo em inglês.
-- `pt-BR.md`: conteúdo em português brasileiro.
+- `README.md`: conteúdo em inglês.
+- `README.pt-BR.md`: conteúdo em português brasileiro.
 
 Conteúdos originalmente publicados em determinado idioma devem aparecer somente no arquivo correspondente. Recursos independentes de idioma podem aparecer nas duas versões.
 
