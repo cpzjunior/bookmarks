@@ -10,7 +10,6 @@ The goal is to gather resources that deserve to be discovered, used, and preserv
 |---|---|
 | [`games`](games/) | Games, tools, and resources related to the gaming world. |
 | [`github`](github/) | Repositories, open source projects, libraries, and tools available on GitHub. |
-| [`technology`](technology/) | Ferramentas, projetos, plataformas e recursos relacionados à tecnologia, computação, software, infraestrutura e inovação. |
 | [`youtube`](youtube/) | Channels, videos, and playlists featuring relevant content. |
 
 ### Category Organization
