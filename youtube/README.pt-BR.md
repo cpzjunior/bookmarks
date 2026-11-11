@@ -37,9 +37,9 @@
 
 ## Front-end
 
-- [No Bullshit Guide to Making Modern Websites](https://www.youtube.com/watch?v=WAV66F-Zbio)
-- [No Bullshit Guide to Website Accessibility](https://www.youtube.com/watch?v=9_QsCBg-Evg)
-- [The Only CSS Reset Guide You'll Ever Need](https://www.youtube.com/watch?v=0RX6nvacS7o)
+- [No Bullshit Guide to Making Modern Websites](https://www.youtube.com/watch?v=WAV66F-Zbio): Dicas rápidas e diretas para modernizar o visual de sites (como copiar inspirações de portfólios, usar bibliotecas de componentes e motion, padronizar fontes e utilizar recursos gratuitos de imagens e ícones).
+- [No Bullshit Guide to Website Accessibility](https://www.youtube.com/watch?v=9_QsCBg-Evg): Guia prático de acessibilidade web focado nos pontos essenciais e em otimizações que impactam diretamente o SEO (como estruturação correta de HTML, uso de tags alt, navegação por teclado e tamanhos adequados de toque em mobile).
+- [The Only CSS Reset Guide You'll Ever Need](https://www.youtube.com/watch?v=0RX6nvacS7o): Explicação objetiva sobre como lidar com padrões de navegadores utilizando um reset CSS rápido, a biblioteca padrão da indústria Normalize.css ou as configurações nativas do Tailwind.
 
 ## IA
 
