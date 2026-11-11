@@ -97,3 +97,104 @@
 * [GenOffice](https://github.com/genspark-ai/genoffice): Suíte de escritório open source com editores de documentos, planilhas, apresentações, PDF, Markdown e HTML, além de CLI e skills para agentes editarem arquivos localmente.
 * [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM): CRM open source e autogerenciado para operações comerciais com agentes de IA e integração nativa com WhatsApp, com suporte a MCP, multi-tenancy e LGPD.
 * [WithoutBG Python](https://github.com/withoutbg/withoutbg-python): SDK Python para remoção de fundo de imagens localmente ou em nuvem, com modelos e recursos de processamento de imagem.
+
+## Analytics, Observabilidade e Monitoramento
+
+* [OpenObserve](https://github.com/openobserve/openobserve): Plataforma open source de observabilidade para centralizar logs, métricas, traces, monitoramento de aplicações, RUM, session replay e observabilidade de LLMs. Oferece implantação simplificada e opção de hospedagem própria.
+* [CrawlSEO](https://github.com/crawlseo/crawlseo): Plataforma open source de monitoramento de SEO que reúne dados do Google Search Console, rastreamento de sites, Core Web Vitals, auditoria técnica e acompanhamento de posicionamento.
+* [Awesome DevOps](https://github.com/wmariuss/awesome-devops): Lista curada de plataformas, ferramentas, práticas e materiais de referência relacionados a DevOps.
+* [Awesome SRE](https://github.com/dastergon/awesome-sre): Coleção de referências sobre Site Reliability Engineering (SRE) e engenharia de produção, incluindo confiabilidade, capacidade, monitoramento, resposta a incidentes e operações.
+* [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools): Diretório de ferramentas para SRE e engenharia de produção, com recursos para monitoramento, disponibilidade, gestão de incidentes e confiabilidade.
+* [Marketing Skills](https://github.com/coreyhaines31/marketingskills): Coleção de skills para Claude Code e outros agentes de IA, cobrindo CRO, copywriting, SEO, analytics, marketing de conteúdo e growth engineering.
+
+## APIs e Integrações
+
+* [BrasilAPI](https://github.com/BrasilAPI/BrasilAPI): Projeto open source que disponibiliza APIs gratuitas para consulta de informações brasileiras e integração em aplicações.
+* [Public APIs](https://github.com/public-apis/public-apis): Catálogo colaborativo de APIs públicas e gratuitas, organizado por categorias para facilitar a descoberta de serviços e fontes de dados.
+* [Awesome REST](https://github.com/marmelab/awesome-rest): Lista colaborativa de materiais, ferramentas e referências sobre arquitetura, desenvolvimento, testes e desempenho de APIs REST.
+* [Traccar](https://github.com/traccar/traccar): Plataforma open source de rastreamento GPS, compatível com mais de 200 protocolos de dispositivos e disponível para hospedagem própria ou uso gerenciado.
+
+## Banco de Dados e Desenvolvimento .NET
+
+* [Entity Framework Core](https://github.com/dotnet/efcore): ORM moderno para .NET que permite mapear objetos para bancos de dados, executar consultas com LINQ, acompanhar alterações, persistir dados e gerenciar migrações de schema.
+* [ASP.NET Core](https://github.com/dotnet/aspnetcore): Framework multiplataforma do .NET para desenvolvimento de aplicações web modernas, APIs e serviços preparados para execução em ambientes locais ou em nuvem.
+* [Dapper](https://github.com/DapperLib/Dapper): Micro-ORM para .NET que simplifica o mapeamento entre resultados de consultas SQL e objetos da aplicação, mantendo controle direto sobre os comandos SQL.
+* [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance): Coleção curada de livros, cursos, treinamentos, palestras, blogs e projetos open source sobre desempenho e otimização no ecossistema .NET.
+* [Estud](https://github.com/ZaqueuCavalcante/estud): Plataforma de gestão educacional desenvolvida com tecnologias do ecossistema .NET e aplicações web.
+
+## Cloud Computing e Infraestrutura
+
+* [Awesome Cloud Computing](https://github.com/TzuriLabs/awesome-cloud-computing): Coleção de conceitos, plataformas, ferramentas, práticas e materiais para aprendizado e aprofundamento em computação em nuvem.
+
+## Blockchain e Web3
+
+* [Bitcoin Core](https://github.com/bitcoin/bitcoin): Repositório oficial de desenvolvimento do Bitcoin Core, implementação de referência que participa da validação e operação da rede Bitcoin.
+* [Solana](https://github.com/solana-labs/solana): Implementação da blockchain Solana, projetada para suportar aplicações e mercados descentralizados com foco em desempenho e escalabilidade.
+
+## Dados, Finanças e Visualização
+
+* [Day Trader Skill](https://github.com/Jakeschincariol/day-trader-skill): Conjunto de skills para Claude voltadas a atividades de day trade, incluindo análise de gráficos, acompanhamento de notícias, apoio à tomada de decisão e simulação de operações.
+
+## Design, UX e Diagramas
+
+* [M3E Canvas](https://github.com/lnkiai/m3e-canvas): Ferramenta web para desenhar telas seguindo o Material 3 Expressive e transformar os projetos em prompts para ferramentas de desenvolvimento assistido por IA.
+* [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill): Skill de IA que fornece referências e orientações de design para criação de interfaces profissionais em diferentes plataformas.
+* [Stack Diagram](https://github.com/caru-ini/stack-diagram): Skill para agentes de IA que gera diagramas de arquitetura e stack tecnológica a partir de uma descrição textual, utilizando logotipos oficiais.
+* [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill): Skill abrangente para criação de logotipos com agentes de IA, incluindo princípios de identidade visual, processo de design, produção em SVG, ferramentas de teste e biblioteca de referências.
+* [draw.io](https://github.com/jgraph/drawio): Editor de diagramas executado no navegador, com recursos para criação de fluxogramas, diagramas técnicos, mapas de arquitetura e outros elementos visuais.
+
+## Ferramentas de Desenvolvimento e Engenharia de Software
+
+* [Visual Studio Code](https://github.com/microsoft/vscode): Editor de código multiplataforma da Microsoft, extensível por meio de plugins e adequado a diferentes linguagens e fluxos de desenvolvimento.
+* [OpenAI Codex](https://github.com/openai/codex): Agente de programação leve que executa no terminal e auxilia na realização de tarefas de desenvolvimento de software.
+* [Playwright CLI](https://github.com/microsoft/playwright-cli): Interface de linha de comando para executar ações comuns do Playwright, registrar interações, gerar código de automação, inspecionar seletores e capturar screenshots.
+* [Agent Browser](https://github.com/vercel-labs/agent-browser): Ferramenta CLI de automação de navegador projetada para permitir que agentes de IA interajam com aplicações web.
+* [CLI-Anything](https://github.com/HKUDS/CLI-Anything): Projeto que busca tornar softwares utilizáveis por agentes por meio de interfaces de linha de comando, criando uma camada de interação agent-native.
+* [Claude Code Templates](https://github.com/davila7/claude-code-templates): Registro open source e CLI para descobrir e configurar componentes do Claude Code, incluindo agentes, comandos, skills, hooks, servidores MCP e configurações.
+* [Agents](https://github.com/wshobson/agents): Coleção de plugins, agentes, skills e comandos para diferentes ferramentas de desenvolvimento assistido por IA, com definições em Markdown e mecanismos de geração, validação e avaliação.
+* [Obsidian Skills](https://github.com/obsidianmd/obsidian-skills): Skills para ensinar agentes de IA a interagir com o Obsidian por meio de sua CLI e de formatos abertos, como Markdown, Bases e JSON Canvas.
+* [Claude Squad](https://github.com/smtg-ai/claude-squad): Ferramenta para gerenciar múltiplos agentes de programação em terminais, incluindo Claude Code, Codex e OpenCode.
+* [OpenRig](https://github.com/mvschwarz/openrig): Ferramenta para montar equipes persistentes de agentes de programação, com papéis definidos, contexto compartilhado e divisão de responsabilidades.
+* [AI Memory](https://github.com/akitaonrails/ai-memory): Solução de memória de longo prazo para CLIs de agentes de programação, facilitando a persistência de contexto e a transferência de trabalho entre diferentes provedores.
+* [Floorplan](https://github.com/haydenschmitty/floorplan): Ferramenta que utiliza Claude ou Codex para gerar um mapa interativo e explicado em linguagem natural da estrutura e dos relacionamentos de uma base de código.
+* [Replica Skill](https://github.com/Jakeschincariol/replica-skill): Coleção de skills para agentes que apoiam a engenharia reversa e recriação de aplicações, incluindo análise de funcionalidades, implementação, testes e correção de problemas.
+* [Reversa](https://github.com/sandeco/reversa): Ferramenta para transformar sistemas legados em especificações executáveis, permitindo documentar comportamento e fornecer contexto estruturado a agentes de programação.
+* [GetHopp](https://github.com/gethopp/hopp): Aplicação open source para programação colaborativa remota, com recursos de edição compartilhada, controle remoto e compartilhamento de tela.
+* [Zero-Breach Toolkit](https://github.com/interplains/Zero-Breach-Toolkit): Ferramenta open source para verificar indícios de spyware mercenário, como Pegasus, Predator e Graphite, em computadores, dispositivos Android e backups de iPhone.
+
+## Agentes de IA e Automação
+
+* [500 AI Agents Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): Coleção de casos de uso e projetos open source de agentes de IA em diferentes setores, como saúde, finanças, educação e varejo.
+* [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills): Biblioteca de skills científicas para agentes de IA, com recursos validados e integração a bases de dados nas áreas de biologia, química, medicina, descoberta de medicamentos e outras disciplinas.
+
+## Conversão e Processamento de Arquivos
+
+* [Filee](https://github.com/KnifeLemon/Filee): Conversor de arquivos gratuito e open source que funciona offline, com suporte a centenas de formatos de documentos, imagens, áudio, vídeo, e-books e arquivos compactados.
+
+## Comunicação e Colaboração
+
+* [Haven](https://github.com/ancsemi/Haven): Aplicação de chat privada e autogerenciada, apresentada como alternativa ao Discord, com comunicação sem dependência de nuvem de terceiros, telemetria ou grandes provedores de tecnologia.
+* [Mailcheap](https://github.com/marclou/mailcheap): Plataforma open source de newsletters com cobrança baseada no volume de e-mails enviados, em vez da quantidade de assinantes cadastrados, disponível para hospedagem própria ou uso em nuvem.
+
+## Gestão de Projetos e Produtividade
+
+* [Worklenz](https://github.com/Worklenz/worklenz): Ferramenta integrada de gestão de projetos para equipes, reunindo gerenciamento de tarefas, recursos, cronogramas e acompanhamento de tempo.
+
+## Desenvolvimento de Jogos
+
+* [MonoGame](https://github.com/MonoGame/MonoGame): Framework open source e multiplataforma para criação de jogos, com recursos para desenvolvimento de aplicações 2D e 3D.
+* [MonoGame Samples](https://github.com/MonoGame/MonoGame.Samples): Coleção de exemplos de desenvolvimento de jogos multiplataforma utilizando o framework MonoGame.
+* [Luanti](https://github.com/luanti-org/luanti): Plataforma open source de criação de jogos em mundo voxel, anteriormente conhecida como Minetest, com suporte a modificações e desenvolvimento de novos jogos.
+* [Freeciv](https://github.com/freeciv/freeciv): Jogo de estratégia open source de construção de impérios, inspirado na história das civilizações, com versões de cliente e servidor.
+* [MU Online Solo Classic](https://github.com/andvolodko/mu-online-solo-classic): Versão independente do jogo clássico MU Online 0.97k, compilada para WebAssembly e executada diretamente no navegador, sem necessidade de servidor remoto.
+* [CentredSharp](https://github.com/kaczy93/centredsharp): Editor de mapas para Ultima Online, voltado à criação e edição de cenários do jogo.
+* [MobileUO](https://github.com/VoxelBoy/MobileUO): Cliente móvel para Ultima Online, permitindo acessar o jogo em dispositivos mobile.
+
+## Áudio, Vídeo e Multimídia
+
+* [YuE2 Studio](https://github.com/timoncool/YuE2-Studio): Aplicação local de geração de músicas com IA, executada em GPU, com suporte a vocais, partituras editáveis, versões cover e reprodução das composições.
+* [OpenShorts](https://github.com/mutonby/openshorts): Gerador open source de vídeos curtos a partir de vídeos longos, com detecção automática de momentos relevantes, enquadramento de rostos, legendas e dublagem. Pode ser hospedado localmente e oferece API e servidor MCP.
+
+## Referências e Coleções
+
+* [Clone Wars](https://github.com/GorvGoyl/Clone-Wars): Coleção de mais de cem projetos open source que recriam sites e serviços populares, com links para código-fonte, demonstrações e tecnologias utilizadas.
