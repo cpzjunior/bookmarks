@@ -198,3 +198,91 @@
 ## Referências e Coleções
 
 * [Clone Wars](https://github.com/GorvGoyl/Clone-Wars): Coleção de mais de cem projetos open source que recriam sites e serviços populares, com links para código-fonte, demonstrações e tecnologias utilizadas.
+
+## Portfólios, Carreira e Comunidades
+
+- [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas?utm_source=chatgpt.com): Coleção de referências de sites de portfólio para desenvolvedores e designers, útil para explorar layouts, apresentações pessoais e ideias de projetos.
+- [Awesome Code Streamers](https://github.com/lucasfloriani/awesome-code-streamers?utm_source=chatgpt.com): Lista de criadores de conteúdo que fazem transmissões de programação em plataformas como Twitch e YouTube.
+- [Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers?utm_source=chatgpt.com): Seleção de canais do YouTube com conteúdo educativo sobre desenvolvimento, ciência da computação, machine learning, jogos e segurança.
+- [Awesome Discord Communities](https://github.com/mhxion/awesome-discord-communities?utm_source=chatgpt.com): Diretório de comunidades do Discord voltadas a programadores e profissionais de tecnologia.
+- [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme?utm_source=chatgpt.com): Exemplos e recursos para criar um README de perfil do GitHub mais informativo e personalizado.
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook?utm_source=chatgpt.com): Material de preparação para entrevistas técnicas, incluindo algoritmos, estruturas de dados, system design e entrevistas comportamentais.
+
+## Formação em Ciência da Computação e Programação
+
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses?utm_source=chatgpt.com): Catálogo de disciplinas e cursos universitários gratuitos sobre ciência da computação.
+- [Open Source Society University](https://github.com/ossu/computer-science?utm_source=chatgpt.com): Currículo estruturado para estudar ciência da computação de forma autodidata, utilizando recursos gratuitos.
+- [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning?utm_source=chatgpt.com): Coleção de tutoriais práticos que ensinam programação por meio da construção de projetos.
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x?utm_source=chatgpt.com): Tutoriais para recriar tecnologias conhecidas do zero e compreender seus conceitos e funcionamento interno.
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook?utm_source=chatgpt.com): Livro aberto sobre ciência de dados com Python, apresentado em notebooks Jupyter e cobrindo bibliotecas como NumPy, pandas e Matplotlib.
+- [Awesome Python](https://github.com/vinta/awesome-python?utm_source=chatgpt.com): Lista abrangente de bibliotecas, frameworks, ferramentas e recursos do ecossistema Python.
+- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming?utm_source=chatgpt.com): Referências para programação competitiva, algoritmos, estruturas de dados, competições e exercícios.
+- [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources?utm_source=chatgpt.com): Materiais para estudar algoritmos e estruturas de dados e se preparar para desafios e entrevistas de programação.
+- [Awesome English](https://github.com/yvoronoy/awesome-english?utm_source=chatgpt.com): Recursos de estudo para aprender inglês, incluindo materiais para estudantes de diferentes níveis.
+- [Awesome Repos](https://github.com/pawelborkar/awesome-repos?utm_source=chatgpt.com): Curadoria de repositórios do GitHub que disponibilizam recursos gratuitos sobre diversos assuntos.
+
+## Arquitetura de Software e Engenharia
+
+- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns?utm_source=chatgpt.com): Coleção de padrões de projeto e referências sobre arquitetura, design de software e sistemas distribuídos.
+- [Software Architecture Books](https://github.com/mhadidg/software-architecture-books?utm_source=chatgpt.com): Lista de livros sobre arquitetura de software, engenharia e design de sistemas.
+- [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture?utm_source=chatgpt.com): Artigos, vídeos e outros materiais para estudar arquitetura de software, padrões, princípios, DDD, microsserviços e arquiteturas orientadas a eventos.
+- [Awesome Software Architecture](https://github.com/simonaronsson/awesome-software-architecture?utm_source=chatgpt.com): Recursos selecionados para aprofundar conhecimentos em arquitetura de software.
+- [Awesome CTO](https://github.com/kuchin/awesome-cto?utm_source=chatgpt.com): Recursos para CTOs e lideranças técnicas, com foco em startups, gestão de engenharia, contratação, estratégia e tomada de decisão.
+- [Awesome Microservices .NET](https://github.com/mjebrahimi/Awesome-Microservices-DotNet?utm_source=chatgpt.com): Materiais de treinamento, artigos, vídeos, livros, cursos, projetos e ferramentas para desenvolver arquiteturas de microsserviços com .NET.
+- [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core?utm_source=chatgpt.com): Catálogo de bibliotecas, ferramentas, frameworks e aplicações do ecossistema .NET.
+- [Breakscale](https://github.com/workersio/breakscale?utm_source=chatgpt.com): Simulador de system design que permite submeter sistemas a carga e observar seu comportamento, facilitando o aprendizado sobre sistemas distribuídos e filas.
+
+## Cloud, DevOps e Infraestrutura
+
+- [Awesome Compose](https://github.com/docker/awesome-compose?utm_source=chatgpt.com): Exemplos de aplicações e configurações prontas para utilizar Docker Compose.
+- [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted?utm_source=chatgpt.com): Diretório de serviços de rede e aplicações web de código aberto que podem ser hospedados em infraestrutura própria.
+- [Free for Dev](https://github.com/ripienaar/free-for-dev?utm_source=chatgpt.com): Relação de serviços SaaS, PaaS e IaaS que oferecem planos gratuitos relevantes para desenvolvimento e operações.
+- [Awesome Shell](https://github.com/alebcay/awesome-shell?utm_source=chatgpt.com): Ferramentas, frameworks, utilitários e materiais de referência para linha de comando e ambientes como Bash, Fish e Zsh.
+- [Awesome SSH](https://github.com/moul/awesome-ssh?utm_source=chatgpt.com): Recursos, ferramentas e referências para SSH, OpenSSH, autenticação e administração de conexões remotas.
+- [Awesome Network Automation](https://github.com/networktocode/awesome-network-automation?utm_source=chatgpt.com): Recursos e ferramentas para automação de redes.
+- [Awesome Azure Learning](https://github.com/shiftavenue/awesome-azure-learning?utm_source=chatgpt.com): Materiais para aprender Azure, incluindo certificações, arquitetura, segurança e automação.
+- [Awesome Azure](https://github.com/kristofferandreasen/awesome-azure?utm_source=chatgpt.com): Recursos selecionados para conhecer os serviços Azure e começar a trabalhar com computação em nuvem.
+- [Awesome Azure DevOps](https://github.com/johnlokerse/awesome-azure-devops?utm_source=chatgpt.com): Artigos, blogs e referências da Microsoft e da comunidade sobre Azure DevOps.
+- [Awesome Azure DevOps](https://github.com/martcus/awesome-azure-devops?utm_source=chatgpt.com): Coleção de recursos úteis para trabalhar com Azure DevOps.
+- [Awesome Actions](https://github.com/sdras/awesome-actions?utm_source=chatgpt.com): Ações reutilizáveis do GitHub Actions para automatizar workflows de integração e entrega contínuas.
+- [Awesome of Awesomes](https://github.com/AdyKalra/awesome-of-awesomes?utm_source=chatgpt.com): Agregador de listas e boas práticas sobre cloud, DevOps, engenharia, arquitetura, liderança e desenvolvimento.
+
+## Inteligência Artificial e Agentes
+
+- [DeepTutor](https://github.com/HKUDS/DeepTutor?utm_source=chatgpt.com): Plataforma de tutoria personalizada com IA, voltada ao aprendizado contínuo e à interação com conteúdos educacionais.
+- [Agent Skills](https://github.com/agentskills/agentskills?utm_source=chatgpt.com): Especificação e documentação para definir, empacotar e utilizar habilidades de agentes de IA.
+- [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills?utm_source=chatgpt.com): Catálogo categorizado de habilidades disponíveis no ecossistema OpenClaw.
+- [Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skills?utm_source=chatgpt.com): Coleção de habilidades para agentes de IA, compatíveis com ferramentas como Claude Code, Codex, Gemini CLI e Cursor.
+- [Awesome Claude Skills](https://github.com/travisvn/awesome-claude-skills?utm_source=chatgpt.com): Lista de habilidades, recursos e ferramentas para personalizar fluxos de trabalho com Claude, especialmente Claude Code.
+- [Awesome Software Factories](https://github.com/varun1505/awesome-software-factories?utm_source=chatgpt.com): Curadoria de software factories e agent factories que executam agentes de programação de forma autônoma, paralela e iterativa.
+- [Awesome Agent Orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators?utm_source=chatgpt.com): Ferramentas e referências para coordenar e orquestrar múltiplos agentes de IA e agentes de programação.
+- [Antigravity Awesome Skills](https://github.com/benjaminasterA/antigravity-awesome-skills?utm_source=chatgpt.com): Coleção de habilidades para ampliar os recursos de agentes e assistentes de desenvolvimento.
+- [Awesome Sandbox](https://github.com/restyler/awesome-sandbox?utm_source=chatgpt.com): Recursos sobre isolamento e execução segura de código em ambientes de sandbox, especialmente para aplicações com IA.
+- [Awesome Nano Banana Pro Prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?utm_source=chatgpt.com): Biblioteca de prompts com exemplos visuais para geração de imagens usando os modelos Nano Banana do Google Gemini.
+- [Open Notebook](https://github.com/lfnovo/open-notebook?utm_source=chatgpt.com): Implementação de código aberto inspirada no NotebookLM, com recursos de organização de notas e interação com materiais de estudo.
+
+## Desenvolvimento Web, APIs e Bibliotecas
+
+- [Awesome React Components](https://github.com/brillout/awesome-react-components?utm_source=chatgpt.com): Lista selecionada de componentes e bibliotecas para desenvolvimento de interfaces com React.
+- [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc?utm_source=chatgpt.com): Recursos e ferramentas para desenvolver aplicações e serviços utilizando gRPC e Protocol Buffers.
+
+## Segurança e Análise de Malware
+
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking?utm_source=chatgpt.com): Tutoriais, ferramentas e materiais de referência sobre hacking e segurança da informação.
+- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis?utm_source=chatgpt.com): Coleção de ferramentas e referências para análise estática e dinâmica de malware, tráfego de rede e inteligência de ameaças.
+
+## Automação Residencial e IoT
+
+- [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant?utm_source=chatgpt.com): Recursos, integrações, configurações e componentes da comunidade para o Home Assistant e projetos de automação residencial.
+
+## Desenvolvimento de Jogos
+
+- [MonoGame Tutorials](https://github.com/Oyyou/MonoGame_Tutorials?utm_source=chatgpt.com): Conjunto de tutoriais e exemplos práticos para desenvolver jogos com MonoGame.
+- [Awesome MonoGame](https://github.com/aloisdeniel/awesome-monogame?utm_source=chatgpt.com): Bibliotecas e ferramentas interessantes para projetos de desenvolvimento de jogos com MonoGame.
+- [Magic Tools](https://github.com/ellisonleao/magictools?utm_source=chatgpt.com): Diretório de recursos para desenvolvimento de jogos, incluindo arte, design, engines, frameworks e programação.
+- [Awesome Tabletop RPGs](https://github.com/Zireael07/awesome-tabletop-rpgs?utm_source=chatgpt.com): Seleção de jogos de RPG de mesa gratuitos e/ou de código aberto.
+- [Open Source Games](https://github.com/bobeff/open-source-games?utm_source=chatgpt.com): Lista de jogos de código aberto que podem ser explorados, estudados e executados.
+
+## Referências e Listas Gerais
+
+- [Awesome](https://github.com/sindresorhus/awesome?utm_source=chatgpt.com): Índice de listas temáticas com recursos selecionados sobre tecnologia e diversos outros assuntos.
