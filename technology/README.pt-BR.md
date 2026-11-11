@@ -7,6 +7,7 @@
 - [LangChain Academy](https://academy.langchain.com/): Plataforma de cursos sobre LangChain, LangGraph e desenvolvimento de agentes e aplicações baseadas em modelos de linguagem.
 - [OpenAI Charges by the Minute, So Make the Minutes Shorter](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/): Artigo que explora técnicas para reduzir custos e tempo de transcrição de áudio utilizando a API da OpenAI, incluindo o aumento da velocidade dos arquivos antes do processamento.
 - [Playwright](https://playwright.dev/): Framework de automação de navegadores para testes end-to-end, permitindo interagir com aplicações web e validar seu comportamento em diferentes navegadores.
+- [TAAFT – There's An AI For That](https://theresanaiforthat.com/): Diretório de ferramentas de inteligência artificial que permite descobrir soluções para diferentes tarefas e necessidades, com busca por funcionalidades, categorias e casos de uso.
 - [Traycer](https://traycer.ai/): Ferramenta de desenvolvimento assistido por IA que ajuda a planejar, implementar e revisar alterações de código.
 
 ## Programação
