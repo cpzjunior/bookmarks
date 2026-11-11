@@ -43,23 +43,23 @@
 
 ## IA
 
-- [5 MCPs que eu uso na prática para programar com IA (Claude Code + Cursor)](https://www.youtube.com/watch?v=PZzWx3lTf0E)
-- [5 skills que eu uso todos os dias para programar com IA (+ BÔNUS)](https://www.youtube.com/watch?v=Q_vuCJ6Y4yk)
-- [Arquitetura de Sistema de Agentes de IA segundo a Anthropic](https://www.youtube.com/watch?v=mHB8BbUhqoo)
-- [Build a Receipt Scanner App in .NET and Local AI with Ollama](https://www.youtube.com/watch?v=XZYzW3z-C1w)
-- [Claude Certified Architect - Foundations – Prepare for and pass the exam](https://www.youtube.com/watch?v=reDRM0tqhNs)
-- [Claude Code - Usando o OpenSpec para a abordagem SDD](https://www.youtube.com/watch?v=VhWrM6q8Das)
-- [Como CRIAR um Agente de IA RAG PERFEITO (5 passos)](https://www.youtube.com/watch?v=LZoLvV7p25A)
-- [Engenharia de Prompt: O Guia Definitivo](https://www.youtube.com/watch?v=1VDcke66TRE)
-- [Learn Every AI Agent Pattern From One Video (I Actually Ran All 35)](https://www.youtube.com/watch?v=PZsJfBVDZZc)
-- [NLP, LLM, RAG, MCP, Agents: o guia definitivo para devs](https://www.youtube.com/watch?v=_-zE9mZVGWc)
-- [Ollama + OpenWebUI - Seu ChatGPT pessoal e gratuito](https://www.youtube.com/watch?v=DzV7DcFprSE)
-- [Pi Agent: o jeito minimalista de programar com IA (GUIA COMPLETO)](https://www.youtube.com/watch?v=YMc0f5i70Hc)
-- [Someone Built Ollama for Audio… and It Runs Locally](https://www.youtube.com/watch?v=CvZuuKkT3Sw)
+- [5 MCPs que eu uso na prática para programar com IA (Claude Code + Cursor)](https://www.youtube.com/watch?v=PZzWx3lTf0E): Apresentação de cinco ferramentas Model Context Protocol (MCP) aplicadas no dia a dia com Claude Code e Cursor, incluindo Playwright para testes de front-end, Firecrawl para web scraping inteligente com LLM, Gemini MCP 2 para economizar tokens, Sentry para monitoramento de erros e Context7 para obtenção de documentações atualizadas.
+- [5 skills que eu uso todos os dias para programar com IA (+ BÔNUS)](https://www.youtube.com/watch?v=Q_vuCJ6Y4yk): Demonstração das cinco principais *skills- baseadas no conceito de *progressive disclosure- utilizadas na rotina de programação com agentes de IA (como Playwright CLI, Interface Design, Napkin, Firecrawl CLI e o Skill Creator), permitindo modularizar instruções, economizar contexto e automatizar tarefas.
+- [Arquitetura de Sistema de Agentes de IA segundo a Anthropic](https://www.youtube.com/watch?v=mHB8BbUhqoo): Análise detalhada do artigo oficial da Anthropic sobre padrões e arquiteturas para construir sistemas baseados em agentes, diferenciando fluxos lineares (*workflows*) de agentes autônomos e explorando padrões como encadeamento de prompts, roteamento, paralelização e o ciclo avaliador-otimizador.
+- [Build a Receipt Scanner App in .NET and Local AI with Ollama](https://www.youtube.com/watch?v=XZYzW3z-C1w): Tutorial prático de como utilizar modelos de visão locais via Ollama (como Llama 3.2 Vision) integrados ao .NET para extrair dados estruturados (em formato JSON e tipados via C#) a partir de imagens de recibos e faturas.
+- [Claude Certified Architect – Foundations – Prepare for and pass the exam](https://www.youtube.com/watch?v=reDRM0tqhNs): Curso preparatório completo e prático focado na certificação de fundações para arquitetos da Anthropic, cobrindo tópicos fundamentais como arquitetura de agentes, integração com MCP, engenharia de prompts, gerenciamento de contexto e robustez em aplicações de IA.
+- [Claude Code - Usando o OpenSpec para a abordagem SDD](https://www.youtube.com/watch?v=VhWrM6q8Das): Demonstração prática do uso do OpenSpec integrado ao Claude Code para implementar o *Spec-Driven Development- (SDD), abordando desde a inicialização do projeto e exploração de requisitos até a implementação automatizada e arquivamento de especificações.
+- [Como CRIAR um Agente de IA RAG PERFEITO (5 passos)](https://www.youtube.com/watch?v=LZoLvV7p25A): Guia prático e aprofundado sobre a construção de sistemas RAG (Retrieval-Augmented Generation) orientados a agentes no mundo real, cobrindo desde a coleta e entendimento de materiais até técnicas avançadas de busca híbrida e avaliação com LLM.
+- [Engenharia de Prompt: O Guia Definitivo](https://www.youtube.com/watch?v=1VDcke66TRE): Masterclass completa sobre engenharia de prompts, abordando fundamentos, estruturas recomendadas, técnicas avançadas (como *Chain-of-Thought- e *Few-Shot*) e a criação de agentes e prompts robustos para diferentes cenários.
+- [Learn Every AI Agent Pattern From One Video (I Actually Ran All 35)](https://www.youtube.com/watch?v=PZsJfBVDZZc): Visão geral abrangente cobrindo todos os 35 padrões de design para agentes de IA distribuídos em oito famílias fundamentais, detalhando o funcionamento prático de loops de trabalho, raciocínio, reflexão e salvaguardas.
+- [NLP, LLM, RAG, MCP, Agents: o guia definitivo para devs](https://www.youtube.com/watch?v=_-zE9mZVGWc): Exposição conceitual e técnica voltada para desenvolvedores, desmistificando os principais termos da inteligência artificial moderna — como redes neurais, machine learning, deep learning, LLMs, RAG, MCP e agentes autônomos.
+- [Ollama + OpenWebUI - Seu ChatGPT pessoal e gratuito](https://www.youtube.com/watch?v=DzV7DcFprSE): Tutorial passo a passo sobre como configurar e rodar Large Language Models (LLMs) localmente no computador utilizando o Ollama em conjunto com a interface OpenWebUI via Docker, garantindo privacidade e controle total sem custos.
+- [Pi Agent: o jeito minimalista de programar com IA (GUIA COMPLETO)](https://www.youtube.com/watch?v=YMc0f5i70Hc): Guia completo sobre o Pi Agent, um agente de programação minimalista ideal para rodar com modelos locais, cobrindo instalação, configuração de skills e MCPs, testes de velocidade e aplicações práticas em código.
+- [Someone Built Ollama for Audio… and It Runs Locally](https://www.youtube.com/watch?v=CvZuuKkT3Sw): Apresentação do Audio CPP, uma ferramenta inovadora em formato binário único que busca unificar diversos modelos de áudio (transcrição, conversão, clonagem de voz e texto para fala) para execução totalmente local.
 
 ## Observabilidade
 
-- [OpenTelemetry na Prática: Monitore Qualquer App com Custo Zero](https://www.youtube.com/watch?v=Wu0Ajkxh69Y)
+- [OpenTelemetry na Prática: Monitore Qualquer App com Custo Zero](https://www.youtube.com/watch?v=Wu0Ajkxh69Y): Guia prático sobre instrumentação e monitoramento de aplicações utilizando OpenTelemetry, cobrindo desde a configuração de SDKs e coleta de dados (métricas, logs e traces) até a integração com um servidor coletor, Prometheus e Grafana para visualização em tempo real de forma 100% gratuita.
 
 ## System design
 
