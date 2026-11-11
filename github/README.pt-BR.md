@@ -286,3 +286,76 @@
 ## Referências e Listas Gerais
 
 - [Awesome](https://github.com/sindresorhus/awesome?utm_source=chatgpt.com): Índice de listas temáticas com recursos selecionados sobre tecnologia e diversos outros assuntos.
+
+## Confiabilidade, SRE e Gestão de Incidentes
+
+- [Postmortem Templates](https://github.com/dastergon/postmortem-templates?utm_source=chatgpt.com): Coleção de modelos para elaboração de relatórios post-mortem após incidentes, com foco em análise de causa raiz, impacto, ações corretivas e melhoria contínua de serviços.
+
+## Aplicativos Mobile e Conectividade
+
+- [Cicada](https://github.com/wquguru/cicada?utm_source=chatgpt.com): Aplicativo multiplataforma para gerar legendas em tempo real, tradução simultânea e atas de reuniões com IA, compatível com macOS, Windows, Linux e Android.
+- [Net Merge](https://github.com/net-merge/net-merge?utm_source=chatgpt.com): Ferramenta para agregar múltiplas conexões de internet, combinando Wi-Fi, Ethernet, dados móveis e tethering para balanceamento de carga.
+- [OpenGym](https://github.com/DuarteSantos8/openGym?utm_source=chatgpt.com): Aplicativo de código aberto para planejamento de treinos, acompanhamento de exercícios e registro de atividades físicas, com suporte a iOS, Apple Watch e Android. Também pode ser hospedado em infraestrutura própria.
+- [Kept](https://github.com/ericerkz/kept?utm_source=chatgpt.com): Aplicativo de anotações inspirado no Google Keep, com suporte a iOS, Android, funcionamento offline e sincronização opcional. Pode ser executado em servidor próprio.
+- [Tapflow](https://github.com/jo-duchan/tapflow?utm_source=chatgpt.com): Plataforma self-hosted para disponibilizar simuladores de dispositivos iOS e Android via streaming, facilitando testes mobile e atividades de QA em equipe.
+
+## Testes e Qualidade de Aplicações
+
+- [E2E](https://github.com/e2e-inc/e2e?utm_source=chatgpt.com): Framework de automação de testes end-to-end para aplicações web e mobile, com recursos para testes de interface e fluxos automatizados.
+- [Universal Modder](https://github.com/rehan-remade/universal-modder?utm_source=chatgpt.com): Conjunto de ferramentas e habilidades para agentes de IA explorarem, modificarem e testarem jogos de PC, incluindo engenharia reversa e geração de recursos.
+- [Agent Rules Books](https://github.com/ciembor/agent-rules-books?utm_source=chatgpt.com): Coleção de regras e habilidades para agentes de programação, baseadas em referências como Clean Code, Refactoring, DDD, Clean Architecture e DDIA.
+- [Omnidiff](https://github.com/ivankovic/omnidiff?utm_source=chatgpt.com): Ferramenta de comparação estrutural de código que utiliza árvores sintáticas abstratas (AST) para identificar diferenças de forma mais precisa.
+- [Zeroshot](https://github.com/the-open-engine/zeroshot?utm_source=chatgpt.com): Motor de orquestração de múltiplos agentes para construção de software, permitindo definir e aplicar workflows próprios de QA, revisão e controle de qualidade.
+
+## Inteligência Artificial, Agentes e Orquestração
+
+- [Expo Skills](https://github.com/expo/skills?utm_source=chatgpt.com): Coleção de habilidades para agentes de IA trabalharem com projetos Expo e serviços Expo Application Services (EAS).
+- [Agent Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator?utm_source=chatgpt.com): Plataforma para planejar, executar e supervisionar múltiplos agentes de programação, com suporte a Claude Code, Codex e outras ferramentas, além de aplicações desktop e mobile.
+- [FFmpeg Skill](https://github.com/kajisho5/ffmpeg-skill?utm_source=chatgpt.com): Conjunto de ferramentas baseadas em FFmpeg para agentes de programação executarem edição e processamento local de áudio e vídeo, incluindo cortes, legendas, redimensionamento e conversão de formatos.
+- [n8n Skills](https://github.com/czlonkowski/n8n-skills?utm_source=chatgpt.com): Conjunto de habilidades para Claude Code desenvolver e configurar workflows de automação na plataforma n8n.
+- [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios?utm_source=chatgpt.com): Estrutura que transforma Claude Code em um estúdio de desenvolvimento de jogos, com agentes especializados, habilidades e coordenação de tarefas.
+- [Graph Engineering](https://github.com/codejunkie99/graph-engineering?utm_source=chatgpt.com): Material e workflows para construção de grafos de conhecimento e grafos de tarefas utilizados por agentes de IA.
+- [LobeHub](https://github.com/lobehub/lobehub?utm_source=chatgpt.com): Plataforma de superagentes de IA que permite integrar assistentes especializados aos ambientes de conversação e colaboração de equipes.
+- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC?utm_source=chatgpt.com): Ambiente de sala de aula interativa com múltiplos agentes de IA, desenvolvido para proporcionar experiências de aprendizagem colaborativas.
+- [Orca](https://github.com/stablyai/orca?utm_source=chatgpt.com): Ambiente para executar e orquestrar múltiplos agentes de programação utilizando suas próprias assinaturas, com suporte a desktop, dispositivos móveis e execução remota.
+- [Sample AI Agent Architectures AgentCore](https://github.com/aws-samples/sample-ai-agent-architectures-agentcore?utm_source=chatgpt.com): Exemplos passo a passo que demonstram a evolução de arquiteturas de agentes de IA, desde implementações simples até soluções prontas para produção utilizando serviços AWS.
+- [AgentCore Samples](https://github.com/awslabs/agentcore-samples?utm_source=chatgpt.com): Exemplos de implementação de agentes de IA em produção com Amazon Bedrock AgentCore, abordando escalabilidade, segurança, identidade, memória e integração.
+
+## Desenvolvimento de Software e Ferramentas de Engenharia
+
+- [Roslyn](https://github.com/dotnet/roslyn?utm_source=chatgpt.com): Plataforma de compiladores .NET para C# e Visual Basic, disponibilizando APIs avançadas para análise sintática, semântica e desenvolvimento de ferramentas de código.
+- [Awesome Compilers](https://github.com/aalhour/awesome-compilers?utm_source=chatgpt.com): Coleção de referências, livros e materiais sobre compiladores, interpretadores, linguagens de programação e ambientes de execução.
+- [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets?utm_source=chatgpt.com): Compilação de cheatsheets de linguagens, frameworks e ferramentas populares, reunindo comandos e conceitos essenciais em documentos de consulta rápida.
+- [OpenTPU](https://github.com/FeSens/openTPU?utm_source=chatgpt.com): Projeto de acelerador de IA de código aberto que reúne implementação RTL, conjunto de instruções, simulador, compilador e profiler para execução de modelos de IA em hardware FPGA.
+
+## Segurança da Informação e Arquitetura Corporativa
+
+- [SkillSpector](https://github.com/NVIDIA/SkillSpector?utm_source=chatgpt.com): Scanner de segurança para habilidades de agentes de IA, identificando vulnerabilidades, injeção de prompts, exfiltração de dados e riscos na cadeia de suprimentos.
+- [Awesome Brazilian YouTubers](https://github.com/rcarubbi/awesome-brazilian-youtubers?utm_source=chatgpt.com): Lista de canais brasileiros do YouTube que ensinam tecnologia, incluindo desenvolvimento web, ciência da computação, machine learning, jogos e segurança cibernética.
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security?utm_source=chatgpt.com): Coleção de materiais, ferramentas e referências sobre segurança de aplicações web e testes de penetração.
+- [Awesome Privacy](https://github.com/lissy93/awesome-privacy?utm_source=chatgpt.com): Diretório de softwares e serviços voltados à privacidade e segurança digital, incluindo alternativas open source e soluções self-hosted.
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response?utm_source=chatgpt.com): Catálogo de ferramentas para resposta a incidentes de segurança, investigação forense digital e atividades de DFIR.
+- [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture?utm_source=chatgpt.com): Referências e materiais sobre arquitetura de soluções em Microsoft Azure.
+- [Awesome Azure Security](https://github.com/kmcquade/awesome-azure-security?utm_source=chatgpt.com): Coleção de ferramentas, guias, blogs e referências sobre segurança em ambientes Microsoft Azure.
+- [Security Audit Skill](https://github.com/cloudflare/security-audit-skill?utm_source=chatgpt.com): Habilidade para agentes de programação executarem auditorias de segurança em múltiplas fases, produzindo resultados estruturados e verificáveis.
+- [Skill Scanner](https://github.com/cisco-ai-defense/skill-scanner?utm_source=chatgpt.com): Scanner de segurança para avaliar habilidades utilizadas por agentes de IA e identificar possíveis ameaças.
+- [CyberStrike](https://github.com/CyberStrikeus/CyberStrike?utm_source=chatgpt.com): Plataforma open source de segurança ofensiva com IA para automatizar testes de penetração e atividades de red team.
+- [OneCLI](https://github.com/onecli/onecli?utm_source=chatgpt.com): Plataforma de execução isolada de agentes de IA para equipes, com foco em segurança, gerenciamento de segredos e provisionamento de ambientes individuais.
+- [Solution Architecture Patterns](https://github.com/chanakaudaya/solution-architecture-patterns?utm_source=chatgpt.com): Coleção de padrões reutilizáveis de arquitetura de soluções, abrangendo integrações, APIs, arquitetura corporativa e cenários específicos de diferentes setores.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?utm_source=chatgpt.com): Grande coleção de ferramentas, manuais, cheatsheets, comandos, referências e recursos para profissionais de infraestrutura, DevOps, segurança e administração de sistemas.
+
+## Apresentações e Documentos
+
+- [Pandoc](https://github.com/jgm/pandoc?utm_source=chatgpt.com): Conversor universal de documentos capaz de transformar conteúdos entre diversos formatos de marcação, documentos e apresentações.
+- [Presenton](https://github.com/presenton/presenton?utm_source=chatgpt.com): Plataforma open source de geração de apresentações com IA, oferecendo interface e API para criação automatizada de slides.
+
+## Produtividade, Atendimento e Comunicação
+
+- [OpenDesk](https://github.com/useopendesk/opendesk?utm_source=chatgpt.com): Plataforma open source de atendimento ao cliente com caixa de entrada compartilhada, chat em tempo real e colaboração entre equipes.
+- [OpenPost](https://github.com/getopenpost/openpost?utm_source=chatgpt.com): Ferramenta para criação, adaptação, agendamento e acompanhamento de publicações em redes sociais, com possibilidade de hospedagem própria.
+
+## Utilitários e Processamento de Arquivos
+
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF?utm_source=chatgpt.com): Aplicação web para manipulação de arquivos PDF, oferecendo recursos de edição, conversão, junção, divisão e OCR, com possibilidade de hospedagem própria.
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR?utm_source=chatgpt.com): Software gratuito e offline para reconhecimento óptico de caracteres (OCR), com suporte a capturas de tela, processamento em lote de imagens e reconhecimento de documentos PDF.
+- [Anydoc](https://github.com/firecrawl/anydoc?utm_source=chatgpt.com): Conversor de documentos para Markdown, com suporte a Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV e PDF.
