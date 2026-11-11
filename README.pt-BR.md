@@ -8,10 +8,10 @@ O objetivo é reunir recursos que mereçam ser descobertos, utilizados e preserv
 
 | Categoria | Descrição |
 |---|---|
-| [`games`](games/) | Jogos, ferramentas e recursos relacionados ao universo dos games. |
-| [`github`](github/) | Repositórios, projetos open source, bibliotecas e ferramentas disponíveis no GitHub. |
-| [`technology`](technology/) | Ferramentas, projetos, plataformas e recursos relacionados à tecnologia, computação, software, infraestrutura e inovação. |
-| [`youtube`](youtube/) | Canais, vídeos e playlists com conteúdo relevante. |
+| [`games`](games/README.pt-BR.md) | Jogos, ferramentas e recursos relacionados ao universo dos games. |
+| [`github`](github/README.pt-BR.md) | Repositórios, projetos open source, bibliotecas e ferramentas disponíveis no GitHub. |
+| [`technology`](technology/README.pt-BR.md) | Ferramentas, projetos, plataformas e recursos relacionados à tecnologia, computação, software, infraestrutura e inovação. |
+| [`youtube`](youtube/README.pt-BR.md) | Canais, vídeos e playlists com conteúdo relevante. |
 
 ### Organização das categorias
 
