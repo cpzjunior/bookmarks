@@ -1,0 +1,2 @@
+- [Classic Game Zone](https://classicgamezone.com/) - Coleção de jogos clássicos de arcade e outras plataformas retrô, acessíveis diretamente pelo navegador.
+- [CS 1.6](https://csget.me/) - Download do Counter-Strike 1.6 em sua versão clássica, com cliente otimizado, configurações padrão e suporte a partidas multiplayer.
