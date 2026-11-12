@@ -8,9 +8,10 @@ The goal is to gather resources that deserve to be discovered, used, and preserv
 
 | Category | Description |
 |---|---|
-| [`games`](games/) | Games, tools, and resources related to the gaming world. |
-| [`github`](github/) | Repositories, open source projects, libraries, and tools available on GitHub. |
-| [`youtube`](youtube/) | Channels, videos, and playlists featuring relevant content. |
+| [`games`](games/README.md) | Games, tools, and resources related to the gaming world. |
+| [`github`](github/README.md) | Repositories, open source projects, libraries, and tools available on GitHub. |
+| [`technology`](technology/README.md) | Tools, projects, platforms, and resources related to technology, computing, software, infrastructure, and innovation. |
+| [`youtube`](youtube/README.md) | Channels, videos, and playlists featuring relevant content. |
 
 ### Category Organization
 
