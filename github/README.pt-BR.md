@@ -194,17 +194,6 @@
 - [STORM](https://github.com/stanford-oval/storm?utm_source=chatgpt.com): Sistema de curadoria de conhecimento baseado em LLM que pesquisa um tema e produz relatórios estruturados com citações.
 - [WithoutBG Python](https://github.com/withoutbg/withoutbg-python?utm_source=chatgpt.com): SDK Python para remoção de fundo de imagens localmente ou em nuvem, com modelos e recursos de processamento de imagem.
 
-## Design, UX e Diagramas
-
-- [Archify](https://github.com/tt-a1i/archify?utm_source=chatgpt.com): Skill para transformar ideias, planos ou bases de código em diagramas interativos, apoiando a documentação de arquitetura e o desenho de sistemas.
-- [Awesome Nano Banana Pro Prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?utm_source=chatgpt.com): Biblioteca de prompts com exemplos visuais para geração de imagens usando os modelos Nano Banana do Google Gemini.
-- [draw.io](https://github.com/jgraph/drawio?utm_source=chatgpt.com): Editor de diagramas executado no navegador, com recursos para criação de fluxogramas, diagramas técnicos, mapas de arquitetura e outros elementos visuais.
-- [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp?utm_source=chatgpt.com): Integração MCP para conectar agentes de IA ao Excalidraw e permitir a criação e manipulação de diagramas.
-- [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill?utm_source=chatgpt.com): Skill abrangente para criação de logotipos com agentes de IA, incluindo princípios de identidade visual, processo de design, produção em SVG, ferramentas de teste e biblioteca de referências.
-- [M3E Canvas](https://github.com/lnkiai/m3e-canvas?utm_source=chatgpt.com): Ferramenta web para desenhar telas seguindo o Material 3 Expressive e transformar os projetos em prompts para ferramentas de desenvolvimento assistido por IA.
-- [Stack Diagram](https://github.com/caru-ini/stack-diagram?utm_source=chatgpt.com): Skill para agentes de IA que gera diagramas de arquitetura e stack tecnológica a partir de uma descrição textual, utilizando logotipos oficiais.
-- [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill?utm_source=chatgpt.com): Skill de IA que fornece referências e orientações de design para criação de interfaces profissionais em diferentes plataformas.
-
 ## Desenvolvimento de Jogos e Simulação
 
 - [Awesome MonoGame](https://github.com/aloisdeniel/awesome-monogame?utm_source=chatgpt.com): Bibliotecas e ferramentas interessantes para projetos de desenvolvimento de jogos com MonoGame.
@@ -237,6 +226,17 @@
 - [Repowise](https://github.com/repowise-dev/repowise?utm_source=chatgpt.com): Ferramenta de inteligência de codebase para pessoas e agentes, com análise de qualidade, documentação, métricas Git, detecção de código não utilizado e decisões arquiteturais via MCP.
 - [Roslyn](https://github.com/dotnet/roslyn?utm_source=chatgpt.com): Plataforma de compiladores .NET para C# e Visual Basic, disponibilizando APIs avançadas para análise sintática, semântica e desenvolvimento de ferramentas de código.
 - [Visual Studio Code](https://github.com/microsoft/vscode?utm_source=chatgpt.com): Editor de código multiplataforma da Microsoft, extensível por meio de plugins e adequado a diferentes linguagens e fluxos de desenvolvimento.
+
+## Design, UX e Diagramas
+
+- [Archify](https://github.com/tt-a1i/archify?utm_source=chatgpt.com): Skill para transformar ideias, planos ou bases de código em diagramas interativos, apoiando a documentação de arquitetura e o desenho de sistemas.
+- [Awesome Nano Banana Pro Prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?utm_source=chatgpt.com): Biblioteca de prompts com exemplos visuais para geração de imagens usando os modelos Nano Banana do Google Gemini.
+- [draw.io](https://github.com/jgraph/drawio?utm_source=chatgpt.com): Editor de diagramas executado no navegador, com recursos para criação de fluxogramas, diagramas técnicos, mapas de arquitetura e outros elementos visuais.
+- [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp?utm_source=chatgpt.com): Integração MCP para conectar agentes de IA ao Excalidraw e permitir a criação e manipulação de diagramas.
+- [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill?utm_source=chatgpt.com): Skill abrangente para criação de logotipos com agentes de IA, incluindo princípios de identidade visual, processo de design, produção em SVG, ferramentas de teste e biblioteca de referências.
+- [M3E Canvas](https://github.com/lnkiai/m3e-canvas?utm_source=chatgpt.com): Ferramenta web para desenhar telas seguindo o Material 3 Expressive e transformar os projetos em prompts para ferramentas de desenvolvimento assistido por IA.
+- [Stack Diagram](https://github.com/caru-ini/stack-diagram?utm_source=chatgpt.com): Skill para agentes de IA que gera diagramas de arquitetura e stack tecnológica a partir de uma descrição textual, utilizando logotipos oficiais.
+- [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill?utm_source=chatgpt.com): Skill de IA que fornece referências e orientações de design para criação de interfaces profissionais em diferentes plataformas.
 
 ## Documentos, Conversão e Processamento de Arquivos
 
