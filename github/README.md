@@ -107,3 +107,219 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-universitym): Structured study plan covering computer science, algorithms, and data structures to prepare for technical interviews.
 - [chiphuyen/dmls-book](https://github.com/chiphuyen/dmls-bookm): Summaries, references, and supplementary materials for the book Designing Machine Learning Systems, covering the design and operation of machine learning systems.
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3m): Collection of practical notebooks for learning Machine Learning and Deep Learning with Python, Scikit-Learn, Keras, and TensorFlow.
+
+## Software Architecture, Design and Engineering
+
+- [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core): Catalog of libraries, tools, frameworks, and applications from the .NET ecosystem.
+- [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance): Curated collection of books, courses, training materials, talks, blogs, and open-source projects about performance and optimization in the .NET ecosystem.
+- [Awesome CTO](https://github.com/kuchin/awesome-cto): Resources for CTOs and technical leaders, focusing on startups, engineering management, hiring, strategy, and decision-making.
+- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns): Collection of design patterns and references on software architecture, software design, and distributed systems.
+- [Awesome Microservices .NET](https://github.com/mjebrahimi/Awesome-Microservices-DotNet): Training materials, articles, videos, books, courses, projects, and tools for developing microservices architectures with .NET.
+- [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture): Articles, videos, and other materials for studying software architecture, patterns, principles, DDD, microservices, and event-driven architectures.
+- [Awesome Software Architecture](https://github.com/simonaronsson/awesome-software-architecture): Curated resources for deepening knowledge of software architecture.
+- [Breakscale](https://github.com/workersio/breakscale): System design simulator that allows systems to be subjected to load and their behavior observed, facilitating learning about distributed systems and queues.
+- [Solution Architecture Patterns](https://github.com/chanakaudaya/solution-architecture-patterns): Collection of reusable solution architecture patterns, covering integrations, APIs, enterprise architecture, and specific scenarios across different industries.
+- [Software Architecture Books](https://github.com/mhadidg/software-architecture-books): List of books on software architecture, engineering, and systems design.
+
+## Audio, Video and Multimedia
+
+- [FavioVazquez/showtime](https://github.com/FavioVazquez/showtime): Local video production studio controlled by coding agents, with on-machine rendering and support for narration, subtitles, and animations.
+- [FFmpeg Skill](https://github.com/kajisho5/ffmpeg-skill): Set of FFmpeg-based tools for coding agents to perform local audio and video editing and processing, including cutting, subtitles, resizing, and format conversion.
+- [Meetily](https://github.com/Zackriya-Solutions/meetily): Open-source, privacy-focused meeting note-taking assistant for Windows and macOS, with transcription and speaker identification running locally, without a bot joining the meeting.
+- [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts): Claude skill that automates the creation of short videos featuring animated stories, combining Three.js and Remotion.
+- [OpenMotion](https://github.com/nexu-io/openmotion): Open-source studio for creating and editing videos with AI assistance, including video reconstruction, HTML-based editing, and integration with external tools and models.
+- [OpenShorts](https://github.com/mutonby/openshorts): Open-source generator of short videos from long videos, featuring automatic detection of relevant moments, face framing, subtitles, and dubbing. It can be self-hosted and provides an API and MCP server.
+- [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui): Graphical interface for removing and separating vocals from music using deep neural networks.
+- [VoiceStudio](https://github.com/debpalash/VoiceStudio): Fully local, open-source alternative to synthetic voice services, featuring voice cloning and creation, dubbing, dictation, transcription, and audiobook production.
+- [openai/whisper](https://github.com/openai/whisper): Automatic speech recognition model capable of transcribing audio in different languages.
+- [YuE2 Studio](https://github.com/timoncool/YuE2-Studio): Local AI music generation application that runs on a GPU, with support for vocals, editable sheet music, cover versions, and playback of compositions.
+
+## Database and .NET Development
+
+- [ASP.NET Core](https://github.com/dotnet/aspnetcore): Cross-platform .NET framework for developing modern web applications, APIs, and services designed to run in local or cloud environments.
+- [Dapper](https://github.com/DapperLib/Dapper): Micro-ORM for .NET that simplifies mapping SQL query results to application objects while maintaining direct control over SQL commands.
+- [Entity Framework Core](https://github.com/dotnet/efcore): Modern ORM for .NET that allows mapping objects to databases, executing queries with LINQ, tracking changes, persisting data, and managing schema migrations.
+- [Estud](https://github.com/ZaqueuCavalcante/estud): Educational management platform developed using technologies from the .NET ecosystem and web applications.
+
+## Blockchain and Web3
+
+- [Bitcoin Core](https://github.com/bitcoin/bitcoin): Official Bitcoin Core development repository, the reference implementation involved in validating and operating the Bitcoin network.
+- [Solana](https://github.com/solana-labs/solana): Implementation of the Solana blockchain, designed to support decentralized applications and markets with a focus on performance and scalability.
+
+## Cloud, DevOps and Infrastructure
+
+- [AutoMQ](https://github.com/AutoMQ/automq): Kafka implementation with decoupled S3-based storage, providing automatic scalability and reduced infrastructure costs.
+- [Awesome Actions](https://github.com/sdras/awesome-actions): Reusable GitHub Actions for automating continuous integration and delivery workflows.
+- [Awesome Azure](https://github.com/kristofferandreasen/awesome-azure): Curated resources for exploring Azure services and getting started with cloud computing.
+- [Awesome Azure DevOps](https://github.com/johnlokerse/awesome-azure-devops): Articles, blogs, and references from Microsoft and the community about Azure DevOps.
+- [Awesome Azure DevOps](https://github.com/martcus/awesome-azure-devops): Collection of useful resources for working with Azure DevOps.
+- [Awesome Azure Learning](https://github.com/shiftavenue/awesome-azure-learning): Materials for learning Azure, including certifications, architecture, security, and automation.
+- [Awesome Cloud Computing](https://github.com/TzuriLabs/awesome-cloud-computing): Collection of concepts, platforms, tools, practices, and learning materials for exploring and deepening knowledge of cloud computing.
+- [Awesome Compose](https://github.com/docker/awesome-compose): Examples of applications and ready-to-use configurations for Docker Compose.
+- [Awesome DevOps](https://github.com/wmariuss/awesome-devops): Curated list of platforms, tools, practices, and reference materials related to DevOps.
+- [Awesome Network Automation](https://github.com/networktocode/awesome-network-automation): Resources and tools for network automation.
+- [Awesome of Awesomes](https://github.com/AdyKalra/awesome-of-awesomes): Aggregator of lists and best practices covering cloud, DevOps, engineering, architecture, leadership, and development.
+- [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted): Directory of open-source network services and web applications that can be hosted on your own infrastructure.
+- [Awesome Shell](https://github.com/alebcay/awesome-shell): Tools, frameworks, utilities, and reference materials for command-line interfaces and environments such as Bash, Fish, and Zsh.
+- [Awesome SSH](https://github.com/moul/awesome-ssh): Resources, tools, and references for SSH, OpenSSH, authentication, and remote connection administration.
+- [Free for Dev](https://github.com/ripienaar/free-for-dev): List of SaaS, PaaS, and IaaS services offering free plans relevant to development and operations.
+- [GitHub Gitignore](https://github.com/github/gitignore): Collection of `.gitignore` file templates for different languages, frameworks, and tools.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): Extensive collection of tools, manuals, cheatsheets, commands, references, and resources for infrastructure, DevOps, security, and systems administration professionals.
+
+## Data, Machine Learning and Artificial Intelligence
+
+- [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents): List of autonomous artificial intelligence agents, related projects, and tools.
+- [Awesome AI Engineering](https://github.com/dipakkr/awesome-ai-engineering): Collection of resources, learning roadmaps, tools, and AI engineering projects, covering LLMs, RAG, agents, MCP, fine-tuning, evaluations, and production systems.
+- [Awesome Data Science](https://github.com/academic/awesome-datascience): Repository of resources for learning and applying Data Science to real-world problems.
+- [Awesome Free LLM APIs](https://github.com/open-free-llm-api/awesome-freellm-apis): Catalog of free APIs for language models, bringing together providers such as Google Gemini, NVIDIA NIM, Groq, and OpenRouter, as well as configuration guides for development tools.
+- [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide): Guide featuring generative AI research references, interview preparation materials, notebooks, and other learning resources.
+- [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain): List of tools and projects using the LangChain framework.
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): Curated list of Machine Learning frameworks, libraries, and tools.
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops): Curated list of references, tools, and materials related to MLOps.
+- [ClawRouter](https://github.com/BlockRunAI/ClawRouter): Language model router designed for autonomous agents, featuring local model selection and support for USDC payments on the Base and Solana networks.
+- [Indra](https://github.com/datalab-to/indra): Compact OCR model for extracting text from documents, with CPU execution and a focus on speed and accuracy.
+- [Langfuse](https://github.com/langfuse/langfuse): Open-source AI engineering platform for gateway, agent observability, evaluations, and prompt management, with support for OpenTelemetry and self-hosting.
+- [llama.cpp](https://github.com/ggml-org/llama.cpp): C/C++ implementation for language model inference, focused on efficient execution across different types of hardware.
+- [LocalAI](https://github.com/mudler/LocalAI): Open-source, AI API-compatible engine for running language, vision, audio, image, and video models on your own hardware, including without a GPU.
+- [minGPT](https://github.com/karpathy/minGPT): Minimalist PyTorch reimplementation of GPT (Generative Pretrained Transformer) model training.
+- [MinerU](https://github.com/opendatalab/MinerU): Tool for converting complex documents, such as PDFs and Office files, into Markdown or JSON suitable for processing by LLMs and agentic workflows.
+- [No AI Slop](https://github.com/petergyang/no-ai-slop): Tool for identifying and removing recurring text patterns associated with generic AI-generated content.
+- [Ollama](https://github.com/ollama/ollama): Tool for running language models locally, including model families such as Kimi, DeepSeek, Qwen, Gemma, and others.
+- [OmniRoute](https://github.com/cheaper-inference/OmniRoute): Open-source AI gateway that unifies providers and models behind a single endpoint, featuring routing, quota-based fallback, and capabilities for reducing token consumption.
+- [Open WebUI](https://github.com/open-webui/open-webui): Web interface for interacting with AI models, with support for Ollama, OpenAI-compatible APIs, RAG, and self-hosting.
+- [OpenAI Math](https://github.com/openai/math): Project related to the formalization and verification of mathematical concepts using Lean.
+- [OXR](https://github.com/SoMarkAI/OXR): Artificial intelligence model for extracting information from documents, combining OCR with vision-language models.
+- [Paper QA](https://github.com/Future-House/paper-qa): RAG solution for answering questions about scientific documents, focused on accuracy and answers accompanied by citations.
+- [Soup](https://github.com/MakazhanAlpamys/Soup): Tool for fine-tuning language models from a YAML configuration, with techniques designed to train models on consumer-grade hardware.
+- [STORM](https://github.com/stanford-oval/storm): LLM-based knowledge curation system that researches a topic and produces structured reports with citations.
+- [WithoutBG Python](https://github.com/withoutbg/withoutbg-python): Python SDK for removing image backgrounds locally or in the cloud, with models and image processing capabilities.
+
+## Game Development and Simulation
+
+- [Awesome MonoGame](https://github.com/aloisdeniel/awesome-monogame): Interesting libraries and tools for game development projects using MonoGame.
+- [Awesome Tabletop RPGs](https://github.com/Zireael07/awesome-tabletop-rpgs): Selection of free and/or open-source tabletop role-playing games.
+- [CentredSharp](https://github.com/kaczy93/centredsharp): Map editor for Ultima Online, designed for creating and editing game environments.
+- [Freeciv](https://github.com/freeciv/freeciv): Open-source empire-building strategy game inspired by the history of civilizations, with client and server versions.
+- [Luanti](https://github.com/luanti-org/luanti): Open-source platform for creating voxel-based world games, formerly known as Minetest, with support for modifications and the development of new games.
+- [Magic Tools](https://github.com/ellisonleao/magictools): Directory of game development resources, including art, design, engines, frameworks, and programming.
+- [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance): Collection of guidelines, best practices, and recommendations from Google Chrome to keep coding agents up to date with modern web development standards.
+- [MonoGame](https://github.com/MonoGame/MonoGame): Open-source, cross-platform framework for creating games, with support for developing 2D and 3D applications.
+- [MonoGame Samples](https://github.com/MonoGame/MonoGame.Samples): Collection of cross-platform game development examples using the MonoGame framework.
+- [MonoGame Tutorials](https://github.com/Oyyou/MonoGame_Tutorials): Set of tutorials and practical examples for developing games with MonoGame.
+- [MobileUO](https://github.com/VoxelBoy/MobileUO): Mobile client for Ultima Online, allowing users to access the game on mobile devices.
+- [MU Online Solo Classic](https://github.com/andvolodko/mu-online-solo-classic): Standalone version of the classic MU Online 0.97k game, compiled to WebAssembly and running directly in the browser, without requiring a remote server.
+- [Open Source Games](https://github.com/bobeff/open-source-games): List of open-source games that can be explored, studied, and played.
+
+## Web Development, APIs and Engineering Tools
+
+- [Agent Browser](https://github.com/vercel-labs/agent-browser): Browser automation CLI tool designed to allow AI agents to interact with web applications.
+- [Awesome Compilers](https://github.com/aalhour/awesome-compilers): Collection of references, books, and materials on compilers, interpreters, programming languages, and runtime environments.
+- [Awesome React Components](https://github.com/brillout/awesome-react-components): Curated list of components and libraries for React interface development.
+- [CLI-Anything](https://github.com/HKUDS/CLI-Anything): Project that aims to make software usable by agents through command-line interfaces, creating an agent-native interaction layer.
+- [Dapper](https://github.com/DapperLib/Dapper): Micro-ORM for .NET that simplifies mapping SQL query results to application objects while maintaining direct control over SQL commands.
+- [Entity Framework Core](https://github.com/dotnet/efcore): Modern ORM for .NET that allows objects to be mapped to databases, queries to be executed with LINQ, changes to be tracked, data to be persisted, and schema migrations to be managed.
+- [GetHopp](https://github.com/gethopp/hopp): Open source application for remote collaborative programming, with shared editing, remote control, and screen-sharing features.
+- [GitHub Gitignore](https://github.com/github/gitignore): Collection of `.gitignore` file templates for different languages, frameworks, and tools.
+- [OpenAI Codex](https://github.com/openai/codex): Lightweight coding agent that runs in the terminal and helps carry out software development tasks.
+- [Playwright CLI](https://github.com/microsoft/playwright-cli): Command-line interface for performing common Playwright actions, recording interactions, generating automation code, inspecting selectors, and capturing screenshots.
+- [PR Agent](https://github.com/The-PR-Agent/pr-agent): Open source agent for pull request reviews, supporting different model providers and development tools.
+- [Repowise](https://github.com/repowise-dev/repowise): Codebase intelligence tool for people and agents, featuring quality analysis, documentation, Git metrics, unused code detection, and architectural decisions via MCP.
+- [Roslyn](https://github.com/dotnet/roslyn): .NET compiler platform for C# and Visual Basic, providing advanced APIs for syntax and semantic analysis and code tool development.
+- [Visual Studio Code](https://github.com/microsoft/vscode): Microsoft's cross-platform code editor, extensible through plugins and suitable for different languages and development workflows.
+
+## Design, UX and Diagrams
+
+- [Archify](https://github.com/tt-a1i/archify): Skill for transforming ideas, plans, or codebases into interactive diagrams, supporting architecture documentation and system design.
+- [Awesome Nano Banana Pro Prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts): Prompt library with visual examples for image generation using Google's Gemini Nano Banana models.
+- [draw.io](https://github.com/jgraph/drawio): Browser-based diagram editor with features for creating flowcharts, technical diagrams, architecture maps, and other visual elements.
+- [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp): MCP integration that connects AI agents to Excalidraw and enables diagram creation and manipulation.
+- [Logo Design Skill](https://github.com/kaankiziltug/logo-design-skill): Comprehensive skill for creating logos with AI agents, including visual identity principles, design processes, SVG production, testing tools, and a reference library.
+- [M3E Canvas](https://github.com/lnkiai/m3e-canvas): Web tool for designing screens based on Material 3 Expressive and turning designs into prompts for AI-assisted development tools.
+- [Stack Diagram](https://github.com/caru-ini/stack-diagram): Skill for AI agents that generates architecture and technology stack diagrams from textual descriptions using official logos.
+- [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill): AI skill that provides design references and guidance for creating professional interfaces across different platforms.
+
+## Documents, Conversion and File Processing
+
+- [Anydoc](https://github.com/firecrawl/anydoc): Document converter to Markdown, supporting Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF.
+- [Filee](https://github.com/KnifeLemon/Filee): Free and open source file converter that works offline, supporting hundreds of document, image, audio, video, e-book, and archive formats.
+- [GenOffice](https://github.com/genspark-ai/genoffice): Open source office suite with document, spreadsheet, presentation, PDF, Markdown, and HTML editors, as well as a CLI and skills that allow agents to edit files locally.
+- [MarkItDown](https://github.com/microsoft/markitdown): Python library for converting documents and files in different formats, including Office documents and PDFs, into Markdown.
+- [MinerU](https://github.com/opendatalab/MinerU): Tool for converting complex documents, such as PDFs and Office files, into Markdown or JSON suitable for LLM processing and agentic workflows.
+- [Pandoc](https://github.com/jgm/pandoc): Universal document converter capable of transforming content between various markup, document, and presentation formats.
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): Web application for PDF file manipulation, offering editing, conversion, merging, splitting, and OCR features, with self-hosting support.
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR): Free, offline optical character recognition (OCR) software, supporting screenshots, batch image processing, and PDF document recognition.
+
+## Project Management, Productivity and Applications
+
+- [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search): Local job search framework based on Claude Code for evaluating job openings, tailoring resumes, preparing cover letters, and supporting interview preparation.
+- [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM): Open source, self-hosted CRM for sales operations with AI agents and native WhatsApp integration, supporting MCP, multi-tenancy, and compliance with Brazil's LGPD.
+- [Firefly III](https://github.com/firefly-iii/firefly-iii): Personal finance management application for tracking income, expenses, budgets, accounts, and cash flow.
+- [Kept](https://github.com/ericerkz/kept): Note-taking app inspired by Google Keep, supporting iOS, Android, offline operation, and optional synchronization. It can be self-hosted.
+- [OpenDesk](https://github.com/useopendesk/opendesk): Open source customer support platform with a shared inbox, real-time chat, and team collaboration.
+- [OpenPost](https://github.com/getopenpost/openpost): Tool for creating, adapting, scheduling, and tracking social media posts, with self-hosting support.
+- [OpenGym](https://github.com/DuarteSantos8/openGym): Open source application for workout planning, exercise tracking, and physical activity logging, with support for iOS, Apple Watch, and Android. It can also be self-hosted.
+- [Worklenz](https://github.com/Worklenz/worklenz): Integrated project management tool for teams, bringing together task management, resource allocation, timelines, and time tracking.
+
+## Portfolios, Careers and Communities
+
+- [agenda-tech-brasil/agenda-tech-brasil](https://github.com/agenda-tech-brasil/agenda-tech-brasil): Collaborative calendar of technology events held in Brazil.
+- [Awesome Brazilian YouTubers](https://github.com/rcarubbi/awesome-brazilian-youtubers): List of Brazilian YouTube channels that teach technology, including web development, computer science, machine learning, gaming, and cybersecurity.
+- [Awesome Code Streamers](https://github.com/lucasfloriani/awesome-code-streamers): List of content creators who livestream programming on platforms such as Twitch and YouTube.
+- [Awesome Discord Communities](https://github.com/mhxion/awesome-discord-communities): Directory of Discord communities for programmers and technology professionals.
+- [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme): Examples and resources for creating a more informative and personalized GitHub profile README.
+- [Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers): Selection of YouTube channels featuring educational content on development, computer science, machine learning, gaming, and security.
+- [GamuxWiki](https://github.com/GamuxUnicamp/Gamux-Wiki): Wiki of the Unicamp Gamux community, with information and materials related to its activities.
+- [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas): Collection of portfolio website references for developers and designers, useful for exploring layouts, personal presentations, and project ideas.
+- [Solution Architect Road Map](https://github.com/NikAshanin/Solution-Architect-Road-Map): Professional development roadmap for solution architects, covering the skills and knowledge required for the role.
+
+## Information Security and Privacy
+
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking): Tutorials, tools, and reference materials on hacking and information security.
+- [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant): Community resources, integrations, configurations, and components for Home Assistant and home automation projects.
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response): Catalog of tools for security incident response, digital forensics, and DFIR activities.
+- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis): Collection of tools and references for static and dynamic malware analysis, network traffic analysis, and threat intelligence.
+- [Awesome Privacy](https://github.com/lissy93/awesome-privacy): Directory of software and services focused on privacy and digital security, including open source alternatives and self-hosted solutions.
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security): Collection of materials, tools, and references on web application security and penetration testing.
+- [CyberStrike](https://github.com/CyberStrikeus/CyberStrike): Open source AI-powered offensive security platform for automating penetration testing and red team activities.
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra): Reverse engineering framework for binary analysis, decompilation, and software investigation.
+- [OneCLI](https://github.com/onecli/onecli): Isolated execution platform for AI agents used by teams, focused on security, secrets management, and provisioning individual environments.
+- [REA](https://github.com/morluto/rea): Agent-powered reverse engineering tool that enables investigation of application behavior and analysis of components down to the native binary level.
+- [Security Audit Skill](https://github.com/cloudflare/security-audit-skill): Skill that enables coding agents to perform multi-phase security audits, producing structured and verifiable results.
+- [Skill Scanner](https://github.com/cisco-ai-defense/skill-scanner): Security scanner for evaluating skills used by AI agents and identifying potential threats.
+- [SkillSpector](https://github.com/NVIDIA/SkillSpector): Security scanner for AI agent skills, identifying vulnerabilities, prompt injection, data exfiltration, and supply chain risks.
+- [Zero-Breach Toolkit](https://github.com/interplains/Zero-Breach-Toolkit): Open source tool for checking for signs of mercenary spyware, such as Pegasus, Predator, and Graphite, on computers, Android devices, and iPhone backups.
+
+## SRE, Observability and Incident Management
+
+- [Awesome SRE](https://github.com/dastergon/awesome-sre): Collection of references on Site Reliability Engineering (SRE) and production engineering, including reliability, capacity, monitoring, incident response, and operations.
+- [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools): Directory of tools for SRE and production engineering, with capabilities for monitoring, availability, incident management, and reliability.
+- [CrawlSEO](https://github.com/crawlseo/crawlseo): Open source SEO monitoring platform that brings together Google Search Console data, website crawling, Core Web Vitals, technical auditing, and ranking tracking.
+- [OpenObserve](https://github.com/openobserve/openobserve): Open source observability platform for centralizing logs, metrics, traces, application monitoring, RUM, session replay, and LLM observability. It offers simplified deployment and self-hosting.
+- [OpenSRE](https://github.com/Tracer-Cloud/opensre): Open source agent focused on CI/CD reliability, with alerting, observability, root cause analysis, and incident remediation capabilities.
+- [Postmortem Templates](https://github.com/dastergon/postmortem-templates): Collection of templates for writing postmortem reports after incidents, focusing on root cause analysis, impact, corrective actions, and continuous service improvement.
+
+## Testing, Quality and Reverse Engineering
+
+- [Agent Rules Books](https://github.com/ciembor/agent-rules-books): Collection of rules and skills for coding agents, based on references such as Clean Code, Refactoring, DDD, Clean Architecture, and DDIA.
+- [E2E](https://github.com/e2e-inc/e2e): End-to-end test automation framework for web and mobile applications, with support for interface testing and automated workflows.
+- [Omnidiff](https://github.com/ivankovic/omnidiff): Structural code comparison tool that uses abstract syntax trees (ASTs) to identify differences more accurately.
+- [Replica Skill](https://github.com/Jakeschincariol/replica-skill): Collection of skills for agents supporting reverse engineering and application recreation, including feature analysis, implementation, testing, and bug fixing.
+- [Reversa](https://github.com/sandeco/reversa): Tool for transforming legacy systems into executable specifications, enabling behavior documentation and providing structured context to coding agents.
+- [Tapflow](https://github.com/jo-duchan/tapflow): Self-hosted platform for providing iOS and Android device simulators via streaming, facilitating mobile testing and team QA activities.
+- [Universal Modder](https://github.com/rehan-remade/universal-modder): Set of tools and skills for AI agents to explore, modify, and test PC games, including reverse engineering and asset generation.
+- [Zeroshot](https://github.com/the-open-engine/zeroshot): Multi-agent orchestration engine for software development, allowing custom QA, review, and quality control workflows to be defined and applied.
+
+## Utilities, Networking and Mobile Applications
+
+- [Cicada](https://github.com/wquguru/cicada): Cross-platform application for real-time captioning, simultaneous translation, and AI-generated meeting minutes, compatible with macOS, Windows, Linux, and Android.
+- [Net Merge](https://github.com/net-merge/net-merge): Tool for aggregating multiple internet connections by combining Wi-Fi, Ethernet, mobile data, and tethering for load balancing.
+- [OpenTPU](https://github.com/FeSens/openTPU): Open source AI accelerator project bringing together an RTL implementation, instruction set, simulator, compiler, and profiler for running AI models on FPGA hardware.
+- [Traccar](https://github.com/traccar/traccar): Open source GPS tracking platform, compatible with more than 200 device protocols and available for self-hosting or managed use.
+
+## Visualization, Geospatial and Robotics
+
+- [3D Model Anything](https://github.com/wesbos/3d-model-anything): Tool for reconstructing editable three-dimensional environments from images and LiDAR data captured with an iPhone, with visualization in Three.js.
+- [God's Eye View](https://github.com/bilawalsidhu/gods-eye-view): Geospatial simulator based on a three-dimensional globe that brings together public data from satellites, flights, and other geospatial intelligence sources.
+- [idol-sdk](https://github.com/speridlabs/idol-sdk): SDK and demo for converting a single image into a three-dimensional representation based on 3D Gaussian Splatting.
+- [microduck](https://github.com/pollen-robotics/microduck): Project for a small, duck-shaped bipedal robot designed for robotics experimentation.
+- [text-to-cad](https://github.com/earthtojake/text-to-cad): Tool that uses artificial intelligence to transform textual descriptions into CAD models of physical products.
