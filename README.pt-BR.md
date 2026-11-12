@@ -33,12 +33,10 @@ A proposta não é criar um diretório genérico de sites ou reunir serviços po
 
 ## Idiomas
 
-O conteúdo é organizado em duas versões:
+Os conteúdos são originalmente escritos em português brasileiro.
 
-- `README.md`: conteúdo em inglês.
-- `README.pt-BR.md`: conteúdo em português brasileiro.
-
-Conteúdos originalmente publicados em determinado idioma devem aparecer somente no arquivo correspondente. Recursos independentes de idioma podem aparecer nas duas versões.
+- `README.md`: tradução para o inglês.
+- `README.pt-BR.md`: versão original e canônica.
 
 ## Contribuição
 
