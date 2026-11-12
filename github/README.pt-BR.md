@@ -22,6 +22,7 @@
 - [Expo Skills](https://github.com/expo/skills?utm_source=chatgpt.com): Coleção de habilidades para agentes de IA trabalharem com projetos Expo e serviços Expo Application Services (EAS).
 - [fabro-sh/fabro](https://github.com/fabro-sh/fabro?utm_source=chatgpt.com): Plataforma de engenharia de software orientada a agentes, voltada à automação de fluxos de desenvolvimento.
 - [google/skills](https://github.com/google/skills?utm_source=chatgpt.com): Habilidades para agentes de IA voltadas a produtos, serviços e tecnologias do ecossistema Google.
+- [gstack](https://github.com/garrytan/gstack): Conjunto de ferramentas e workflows para Claude Code que transforma o agente de programação em uma equipe de especialistas, com papéis como CEO, Designer, Engenheiro de Software, Gerente de Engenharia, Release Manager e QA.
 - [Graph Engineering](https://github.com/codejunkie99/graph-engineering?utm_source=chatgpt.com): Material e workflows para construção de grafos de conhecimento e grafos de tarefas utilizados por agentes de IA.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent?utm_source=chatgpt.com): Agente de IA da Nous Research, projetado para evoluir com o uso e apoiar diferentes tarefas por meio de modelos e ferramentas.
 - [LobeHub](https://github.com/lobehub/lobehub?utm_source=chatgpt.com): Plataforma de superagentes de IA que permite integrar assistentes especializados aos ambientes de conversação e colaboração de equipes.
@@ -109,6 +110,7 @@
 - [Awesome Python](https://github.com/vinta/awesome-python?utm_source=chatgpt.com): Lista abrangente de bibliotecas, frameworks, ferramentas e recursos do ecossistema Python.
 - [Awesome Repos](https://github.com/pawelborkar/awesome-repos?utm_source=chatgpt.com): Curadoria de repositórios do GitHub que disponibilizam recursos gratuitos sobre diversos assuntos.
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x?utm_source=chatgpt.com): Tutoriais para recriar tecnologias conhecidas do zero e compreender seus conceitos e funcionamento interno.
+- [cracked](https://github.com/nishant-Tiwari24/cracked): Ferramenta de preparação para processos seletivos de tecnologia, com entrevistas simuladas por empresa, desafios de programação (Online Assessments) com testes ocultos e análise crítica de currículos, diretamente pelo terminal.
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp?utm_source=chatgpt.com): Plataforma educacional de código aberto com cursos e exercícios gratuitos de programação, matemática e ciência da computação.
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books?utm_source=chatgpt.com): Catálogo colaborativo de livros gratuitos sobre programação e desenvolvimento de software.
 - [Made With ML](https://github.com/GokuMohandas/Made-With-ML?utm_source=chatgpt.com): Material prático para aprender a desenvolver, implantar e evoluir aplicações de machine learning em ambientes de produção.
@@ -211,6 +213,7 @@
 - [Freeciv](https://github.com/freeciv/freeciv?utm_source=chatgpt.com): Jogo de estratégia open source de construção de impérios, inspirado na história das civilizações, com versões de cliente e servidor.
 - [Luanti](https://github.com/luanti-org/luanti?utm_source=chatgpt.com): Plataforma open source de criação de jogos em mundo voxel, anteriormente conhecida como Minetest, com suporte a modificações e desenvolvimento de novos jogos.
 - [Magic Tools](https://github.com/ellisonleao/magictools?utm_source=chatgpt.com): Diretório de recursos para desenvolvimento de jogos, incluindo arte, design, engines, frameworks e programação.
+- [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance): Coleção de orientações, boas práticas e recomendações do Google Chrome para manter agentes de programação atualizados sobre padrões modernos de desenvolvimento web.
 - [MonoGame](https://github.com/MonoGame/MonoGame?utm_source=chatgpt.com): Framework open source e multiplataforma para criação de jogos, com recursos para desenvolvimento de aplicações 2D e 3D.
 - [MonoGame Samples](https://github.com/MonoGame/MonoGame.Samples?utm_source=chatgpt.com): Coleção de exemplos de desenvolvimento de jogos multiplataforma utilizando o framework MonoGame.
 - [MonoGame Tutorials](https://github.com/Oyyou/MonoGame_Tutorials?utm_source=chatgpt.com): Conjunto de tutoriais e exemplos práticos para desenvolver jogos com MonoGame.
