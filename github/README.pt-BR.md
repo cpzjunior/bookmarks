@@ -74,31 +74,14 @@
 - [Spec Kit](https://github.com/github/spec-kit?utm_source=chatgpt.com): Toolkit para iniciar processos de desenvolvimento orientado a especificações (SDD) e outras abordagens estruturadas de engenharia de software.
 - [Superpowers](https://github.com/obra/superpowers?utm_source=chatgpt.com): Framework de skills e metodologia de desenvolvimento de software orientada a agentes, com práticas para estruturar e executar o trabalho de desenvolvimento.
 
-## Arquitetura de Software, Design e Engenharia
+## APIs, Integrações e Protocolos
 
-- [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core?utm_source=chatgpt.com): Catálogo de bibliotecas, ferramentas, frameworks e aplicações do ecossistema .NET.
-- [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance?utm_source=chatgpt.com): Coleção curada de livros, cursos, treinamentos, palestras, blogs e projetos open source sobre desempenho e otimização no ecossistema .NET.
-- [Awesome CTO](https://github.com/kuchin/awesome-cto?utm_source=chatgpt.com): Recursos para CTOs e lideranças técnicas, com foco em startups, gestão de engenharia, contratação, estratégia e tomada de decisão.
-- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns?utm_source=chatgpt.com): Coleção de padrões de projeto e referências sobre arquitetura, design de software e sistemas distribuídos.
-- [Awesome Microservices .NET](https://github.com/mjebrahimi/Awesome-Microservices-DotNet?utm_source=chatgpt.com): Materiais de treinamento, artigos, vídeos, livros, cursos, projetos e ferramentas para desenvolver arquiteturas de microsserviços com .NET.
-- [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture?utm_source=chatgpt.com): Artigos, vídeos e outros materiais para estudar arquitetura de software, padrões, princípios, DDD, microsserviços e arquiteturas orientadas a eventos.
-- [Awesome Software Architecture](https://github.com/simonaronsson/awesome-software-architecture?utm_source=chatgpt.com): Recursos selecionados para aprofundar conhecimentos em arquitetura de software.
-- [Breakscale](https://github.com/workersio/breakscale?utm_source=chatgpt.com): Simulador de system design que permite submeter sistemas a carga e observar seu comportamento, facilitando o aprendizado sobre sistemas distribuídos e filas.
-- [Solution Architecture Patterns](https://github.com/chanakaudaya/solution-architecture-patterns?utm_source=chatgpt.com): Coleção de padrões reutilizáveis de arquitetura de soluções, abrangendo integrações, APIs, arquitetura corporativa e cenários específicos de diferentes setores.
-- [Software Architecture Books](https://github.com/mhadidg/software-architecture-books?utm_source=chatgpt.com): Lista de livros sobre arquitetura de software, engenharia e design de sistemas.
-
-## Áudio, Vídeo e Multimídia
-
-- [FavioVazquez/showtime](https://github.com/FavioVazquez/showtime?utm_source=chatgpt.com): Estúdio local de produção de vídeos controlado por agentes de programação, com renderização na própria máquina e suporte a narração, legendas e animações.
-- [FFmpeg Skill](https://github.com/kajisho5/ffmpeg-skill?utm_source=chatgpt.com): Conjunto de ferramentas baseadas em FFmpeg para agentes de programação executarem edição e processamento local de áudio e vídeo, incluindo cortes, legendas, redimensionamento e conversão de formatos.
-- [Meetily](https://github.com/Zackriya-Solutions/meetily?utm_source=chatgpt.com): Assistente open source e focado em privacidade para anotações de reuniões no Windows e macOS, com transcrição e identificação de falantes executadas localmente, sem bot participando da reunião.
-- [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts?utm_source=chatgpt.com): Habilidade para Claude que automatiza a criação de vídeos curtos com histórias animadas, combinando Three.js e Remotion.
-- [OpenMotion](https://github.com/nexu-io/openmotion?utm_source=chatgpt.com): Estúdio open source para criação e edição de vídeos com apoio de IA, incluindo reconstrução de vídeos, edição baseada em HTML e integração com ferramentas e modelos externos.
-- [OpenShorts](https://github.com/mutonby/openshorts?utm_source=chatgpt.com): Gerador open source de vídeos curtos a partir de vídeos longos, com detecção automática de momentos relevantes, enquadramento de rostos, legendas e dublagem. Pode ser hospedado localmente e oferece API e servidor MCP.
-- [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui?utm_source=chatgpt.com): Interface gráfica para remoção e separação de vocais de músicas utilizando redes neurais profundas.
-- [VoiceStudio](https://github.com/debpalash/VoiceStudio?utm_source=chatgpt.com): Alternativa open source e totalmente local a serviços de voz sintética, com clonagem e criação de vozes, dublagem, ditado, transcrição e produção de audiolivros.
-- [openai/whisper](https://github.com/openai/whisper?utm_source=chatgpt.com): Modelo de reconhecimento automático de fala capaz de transcrever áudio em diferentes idiomas.
-- [YuE2 Studio](https://github.com/timoncool/YuE2-Studio?utm_source=chatgpt.com): Aplicação local de geração de músicas com IA, executada em GPU, com suporte a vocais, partituras editáveis, versões cover e reprodução das composições.
+- [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc?utm_source=chatgpt.com): Recursos e ferramentas para desenvolver aplicações e serviços utilizando gRPC e Protocol Buffers.
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers?utm_source=chatgpt.com): Coleção de servidores MCP (Model Context Protocol) para conectar modelos e agentes de IA a ferramentas, serviços e fontes de dados.
+- [Awesome REST](https://github.com/marmelab/awesome-rest?utm_source=chatgpt.com): Lista colaborativa de materiais, ferramentas e referências sobre arquitetura, desenvolvimento, testes e desempenho de APIs REST.
+- [BrasilAPI](https://github.com/BrasilAPI/BrasilAPI?utm_source=chatgpt.com): Projeto open source que disponibiliza APIs gratuitas para consulta de informações brasileiras e integração em aplicações.
+- [Public APIs](https://github.com/public-apis/public-apis?utm_source=chatgpt.com): Catálogo colaborativo de APIs públicas e gratuitas, organizado por categorias para facilitar a descoberta de serviços e fontes de dados.
+- [Traccar](https://github.com/traccar/traccar?utm_source=chatgpt.com): Plataforma open source de rastreamento GPS, compatível com mais de 200 protocolos de dispositivos e disponível para hospedagem própria ou uso gerenciado.
 
 ## Aprendizado, Ciência da Computação e Referências
 
@@ -125,14 +108,31 @@
 - [chiphuyen/dmls-book](https://github.com/chiphuyen/dmls-book?utm_source=chatgpt.com): Resumos, referências e materiais complementares do livro Designing Machine Learning Systems, sobre projeto e operação de sistemas de machine learning.
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3?utm_source=chatgpt.com): Conjunto de notebooks práticos para aprender Machine Learning e Deep Learning com Python, Scikit-Learn, Keras e TensorFlow.
 
-## APIs, Integrações e Protocolos
+## Arquitetura de Software, Design e Engenharia
 
-- [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc?utm_source=chatgpt.com): Recursos e ferramentas para desenvolver aplicações e serviços utilizando gRPC e Protocol Buffers.
-- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers?utm_source=chatgpt.com): Coleção de servidores MCP (Model Context Protocol) para conectar modelos e agentes de IA a ferramentas, serviços e fontes de dados.
-- [Awesome REST](https://github.com/marmelab/awesome-rest?utm_source=chatgpt.com): Lista colaborativa de materiais, ferramentas e referências sobre arquitetura, desenvolvimento, testes e desempenho de APIs REST.
-- [BrasilAPI](https://github.com/BrasilAPI/BrasilAPI?utm_source=chatgpt.com): Projeto open source que disponibiliza APIs gratuitas para consulta de informações brasileiras e integração em aplicações.
-- [Public APIs](https://github.com/public-apis/public-apis?utm_source=chatgpt.com): Catálogo colaborativo de APIs públicas e gratuitas, organizado por categorias para facilitar a descoberta de serviços e fontes de dados.
-- [Traccar](https://github.com/traccar/traccar?utm_source=chatgpt.com): Plataforma open source de rastreamento GPS, compatível com mais de 200 protocolos de dispositivos e disponível para hospedagem própria ou uso gerenciado.
+- [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core?utm_source=chatgpt.com): Catálogo de bibliotecas, ferramentas, frameworks e aplicações do ecossistema .NET.
+- [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance?utm_source=chatgpt.com): Coleção curada de livros, cursos, treinamentos, palestras, blogs e projetos open source sobre desempenho e otimização no ecossistema .NET.
+- [Awesome CTO](https://github.com/kuchin/awesome-cto?utm_source=chatgpt.com): Recursos para CTOs e lideranças técnicas, com foco em startups, gestão de engenharia, contratação, estratégia e tomada de decisão.
+- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns?utm_source=chatgpt.com): Coleção de padrões de projeto e referências sobre arquitetura, design de software e sistemas distribuídos.
+- [Awesome Microservices .NET](https://github.com/mjebrahimi/Awesome-Microservices-DotNet?utm_source=chatgpt.com): Materiais de treinamento, artigos, vídeos, livros, cursos, projetos e ferramentas para desenvolver arquiteturas de microsserviços com .NET.
+- [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture?utm_source=chatgpt.com): Artigos, vídeos e outros materiais para estudar arquitetura de software, padrões, princípios, DDD, microsserviços e arquiteturas orientadas a eventos.
+- [Awesome Software Architecture](https://github.com/simonaronsson/awesome-software-architecture?utm_source=chatgpt.com): Recursos selecionados para aprofundar conhecimentos em arquitetura de software.
+- [Breakscale](https://github.com/workersio/breakscale?utm_source=chatgpt.com): Simulador de system design que permite submeter sistemas a carga e observar seu comportamento, facilitando o aprendizado sobre sistemas distribuídos e filas.
+- [Solution Architecture Patterns](https://github.com/chanakaudaya/solution-architecture-patterns?utm_source=chatgpt.com): Coleção de padrões reutilizáveis de arquitetura de soluções, abrangendo integrações, APIs, arquitetura corporativa e cenários específicos de diferentes setores.
+- [Software Architecture Books](https://github.com/mhadidg/software-architecture-books?utm_source=chatgpt.com): Lista de livros sobre arquitetura de software, engenharia e design de sistemas.
+
+## Áudio, Vídeo e Multimídia
+
+- [FavioVazquez/showtime](https://github.com/FavioVazquez/showtime?utm_source=chatgpt.com): Estúdio local de produção de vídeos controlado por agentes de programação, com renderização na própria máquina e suporte a narração, legendas e animações.
+- [FFmpeg Skill](https://github.com/kajisho5/ffmpeg-skill?utm_source=chatgpt.com): Conjunto de ferramentas baseadas em FFmpeg para agentes de programação executarem edição e processamento local de áudio e vídeo, incluindo cortes, legendas, redimensionamento e conversão de formatos.
+- [Meetily](https://github.com/Zackriya-Solutions/meetily?utm_source=chatgpt.com): Assistente open source e focado em privacidade para anotações de reuniões no Windows e macOS, com transcrição e identificação de falantes executadas localmente, sem bot participando da reunião.
+- [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts?utm_source=chatgpt.com): Habilidade para Claude que automatiza a criação de vídeos curtos com histórias animadas, combinando Three.js e Remotion.
+- [OpenMotion](https://github.com/nexu-io/openmotion?utm_source=chatgpt.com): Estúdio open source para criação e edição de vídeos com apoio de IA, incluindo reconstrução de vídeos, edição baseada em HTML e integração com ferramentas e modelos externos.
+- [OpenShorts](https://github.com/mutonby/openshorts?utm_source=chatgpt.com): Gerador open source de vídeos curtos a partir de vídeos longos, com detecção automática de momentos relevantes, enquadramento de rostos, legendas e dublagem. Pode ser hospedado localmente e oferece API e servidor MCP.
+- [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui?utm_source=chatgpt.com): Interface gráfica para remoção e separação de vocais de músicas utilizando redes neurais profundas.
+- [VoiceStudio](https://github.com/debpalash/VoiceStudio?utm_source=chatgpt.com): Alternativa open source e totalmente local a serviços de voz sintética, com clonagem e criação de vozes, dublagem, ditado, transcrição e produção de audiolivros.
+- [openai/whisper](https://github.com/openai/whisper?utm_source=chatgpt.com): Modelo de reconhecimento automático de fala capaz de transcrever áudio em diferentes idiomas.
+- [YuE2 Studio](https://github.com/timoncool/YuE2-Studio?utm_source=chatgpt.com): Aplicação local de geração de músicas com IA, executada em GPU, com suporte a vocais, partituras editáveis, versões cover e reprodução das composições.
 
 ## Banco de Dados e Desenvolvimento .NET
 
