@@ -297,6 +297,7 @@
 - [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools): Diretório de ferramentas para SRE e engenharia de produção, com recursos para monitoramento, disponibilidade, gestão de incidentes e confiabilidade.
 - [CrawlSEO](https://github.com/crawlseo/crawlseo): Plataforma open source de monitoramento de SEO que reúne dados do Google Search Console, rastreamento de sites, Core Web Vitals, auditoria técnica e acompanhamento de posicionamento.
 - [OpenObserve](https://github.com/openobserve/openobserve): Plataforma open source de observabilidade para centralizar logs, métricas, traces, monitoramento de aplicações, RUM, session replay e observabilidade de LLMs. Oferece implantação simplificada e opção de hospedagem própria.
+- [OpenSEO](https://github.com/every-app/open-seo): Plataforma open source de SEO com pesquisa de palavras-chave, acompanhamento de posicionamento, análise de concorrentes, backlinks e auditoria de sites, incluindo integração com agentes de IA via MCP e skills.
 - [OpenSRE](https://github.com/Tracer-Cloud/opensre): Agente open source voltado à confiabilidade de CI/CD, com recursos de alertas, observabilidade, análise de causa raiz e remediação de incidentes.
 - [Postmortem Templates](https://github.com/dastergon/postmortem-templates): Coleção de modelos para elaboração de relatórios post-mortem após incidentes, com foco em análise de causa raiz, impacto, ações corretivas e melhoria contínua de serviços.
 
