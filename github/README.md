@@ -82,6 +82,7 @@
 - [Awesome REST](https://github.com/marmelab/awesome-restm): Collaborative list of materials, tools, and references on REST API architecture, development, testing, and performance.
 - [BrasilAPI](https://github.com/BrasilAPI/BrasilAPIm): Open-source project providing free APIs for retrieving Brazilian information and integrating it into applications.
 - [Public APIs](https://github.com/public-apis/public-apism): Collaborative catalog of free public APIs, organized by category to facilitate the discovery of services and data sources.
+- [reddit-ads-mcp](https://github.com/leolima77/reddit-ads-mcp): Read-only MCP server for integration with the Reddit Ads API, allowing users to query campaigns, ads, communities, spending, performance metrics, and tracking parameters using AI assistants.
 - [Traccar](https://github.com/traccar/traccarm): Open-source GPS tracking platform, compatible with more than 200 device protocols and available for self-hosting or managed use.
 
 ## Learning, Computer Science and References
