@@ -254,8 +254,12 @@
 ## Gestão de Projetos, Produtividade e Aplicações
 
 - [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search): Framework local de busca de emprego baseado em Claude Code para avaliar vagas, adaptar currículos, preparar cartas de apresentação e apoiar a preparação para entrevistas.
+- [Cal.diy](https://github.com/calcom/cal.diy): Plataforma open source de agendamento de compromissos, baseada no Cal.com, permitindo gerenciar disponibilidade, reservas e calendários com implantação própria.
+- [Chatwoot](https://github.com/chatwoot/chatwoot): Plataforma open source de atendimento omnichannel que centraliza conversas de clientes provenientes de chat, e-mail, WhatsApp e redes sociais em uma caixa de entrada compartilhada, com automações e recursos de IA.
 - [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM): CRM open source e autogerenciado para operações comerciais com agentes de IA e integração nativa com WhatsApp, com suporte a MCP, multi-tenancy e LGPD.
+- [Frappe CRM](https://github.com/frappe/crm): CRM open source para gerenciamento de clientes, leads e oportunidades comerciais, com pipeline de vendas, visualização Kanban, atividades e integrações com WhatsApp e ERPNext.
 - [Firefly III](https://github.com/firefly-iii/firefly-iii): Aplicação de gestão financeira pessoal para controlar receitas, despesas, orçamentos, contas e fluxo de caixa.
+- [Invoice Ninja](https://github.com/invoiceninja/invoiceninja): Aplicação para gestão financeira e comercial, oferecendo emissão de faturas, orçamentos, gerenciamento de projetos, controle de horas e acompanhamento de pagamentos, com opção de hospedagem própria.
 - [Kept](https://github.com/ericerkz/kept): Aplicativo de anotações inspirado no Google Keep, com suporte a iOS, Android, funcionamento offline e sincronização opcional. Pode ser executado em servidor próprio.
 - [OpenDesk](https://github.com/useopendesk/opendesk): Plataforma open source de atendimento ao cliente com caixa de entrada compartilhada, chat em tempo real e colaboração entre equipes.
 - [OpenPost](https://github.com/getopenpost/openpost): Ferramenta para criação, adaptação, agendamento e acompanhamento de publicações em redes sociais, com possibilidade de hospedagem própria.
