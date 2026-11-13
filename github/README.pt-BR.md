@@ -24,6 +24,7 @@
 - [google/skills](https://github.com/google/skills): Habilidades para agentes de IA voltadas a produtos, serviços e tecnologias do ecossistema Google.
 - [gstack](https://github.com/garrytan/gstack): Conjunto de ferramentas e workflows para Claude Code que transforma o agente de programação em uma equipe de especialistas, com papéis como CEO, Designer, Engenheiro de Software, Gerente de Engenharia, Release Manager e QA.
 - [Graph Engineering](https://github.com/codejunkie99/graph-engineering): Material e workflows para construção de grafos de conhecimento e grafos de tarefas utilizados por agentes de IA.
+- [Graphify](https://github.com/Graphify-Labs/graphify): Ferramenta para agentes de IA que transforma bases de código, documentos e arquivos multimídia em grafos de conhecimento navegáveis, facilitando a compreensão de projetos, a descoberta de dependências e a recuperação de contexto.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent): Agente de IA da Nous Research, projetado para evoluir com o uso e apoiar diferentes tarefas por meio de modelos e ferramentas.
 - [LobeHub](https://github.com/lobehub/lobehub): Plataforma de superagentes de IA que permite integrar assistentes especializados aos ambientes de conversação e colaboração de equipes.
 - [n8n](https://github.com/n8n-io/n8n): Plataforma de automação de workflows com recursos nativos de IA, integrações com centenas de serviços e opções de execução em nuvem ou infraestrutura própria.
