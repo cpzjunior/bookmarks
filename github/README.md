@@ -254,8 +254,12 @@
 ## Project Management, Productivity and Applications
 
 - [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search): Local job search framework based on Claude Code for evaluating job openings, tailoring resumes, preparing cover letters, and supporting interview preparation.
+- [Cal.diy](https://github.com/calcom/cal.diy): Open-source appointment scheduling platform based on Cal.com, allowing users to manage availability, bookings, and calendars through self-hosted deployment.
+- [Chatwoot](https://github.com/chatwoot/chatwoot): Open-source omnichannel customer support platform that centralizes customer conversations from chat, email, WhatsApp, and social media into a shared inbox, with automation and AI features.
 - [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM): Open source, self-hosted CRM for sales operations with AI agents and native WhatsApp integration, supporting MCP, multi-tenancy, and compliance with Brazil's LGPD.
 - [Firefly III](https://github.com/firefly-iii/firefly-iii): Personal finance management application for tracking income, expenses, budgets, accounts, and cash flow.
+- [Frappe CRM](https://github.com/frappe/crm): Open-source CRM for managing customers, leads, and sales opportunities, featuring a sales pipeline, Kanban view, activities, and integrations with WhatsApp and ERPNext.
+- [Invoice Ninja](https://github.com/invoiceninja/invoiceninja): Financial and business management application offering invoice generation, quotes, project management, time tracking, and payment monitoring, with a self-hosting option.
 - [Kept](https://github.com/ericerkz/kept): Note-taking app inspired by Google Keep, supporting iOS, Android, offline operation, and optional synchronization. It can be self-hosted.
 - [OpenDesk](https://github.com/useopendesk/opendesk): Open source customer support platform with a shared inbox, real-time chat, and team collaboration.
 - [OpenPost](https://github.com/getopenpost/openpost): Tool for creating, adapting, scheduling, and tracking social media posts, with self-hosting support.
