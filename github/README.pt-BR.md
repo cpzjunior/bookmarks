@@ -262,6 +262,11 @@
 - [OpenGym](https://github.com/DuarteSantos8/openGym): Aplicativo de código aberto para planejamento de treinos, acompanhamento de exercícios e registro de atividades físicas, com suporte a iOS, Apple Watch e Android. Também pode ser hospedado em infraestrutura própria.
 - [Worklenz](https://github.com/Worklenz/worklenz): Ferramenta integrada de gestão de projetos para equipes, reunindo gerenciamento de tarefas, recursos, cronogramas e acompanhamento de tempo.
 
+## Marketing Digital e Automação
+- [CrawlSEO](https://github.com/crawlseo/crawlseo): Plataforma open source de monitoramento de SEO que reúne dados do Google Search Console, rastreamento de sites, Core Web Vitals, auditoria técnica e acompanhamento de posicionamento.
+- [Mautic](https://github.com/mautic/mautic): Plataforma open source de automação de marketing que permite criar campanhas multicanal, gerenciar contatos, segmentar audiências, automatizar jornadas de relacionamento e acompanhar resultados.
+- [OpenSEO](https://github.com/every-app/open-seo): Plataforma open source de SEO com pesquisa de palavras-chave, acompanhamento de posicionamento, análise de concorrentes, backlinks e auditoria de sites, incluindo integração com agentes de IA via MCP e skills.
+
 ## Portfólios, Carreira e Comunidades
 
 - [agenda-tech-brasil/agenda-tech-brasil](https://github.com/agenda-tech-brasil/agenda-tech-brasil): Agenda colaborativa de eventos de tecnologia realizados no Brasil.
@@ -295,9 +300,7 @@
 
 - [Awesome SRE](https://github.com/dastergon/awesome-sre): Coleção de referências sobre Site Reliability Engineering (SRE) e engenharia de produção, incluindo confiabilidade, capacidade, monitoramento, resposta a incidentes e operações.
 - [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools): Diretório de ferramentas para SRE e engenharia de produção, com recursos para monitoramento, disponibilidade, gestão de incidentes e confiabilidade.
-- [CrawlSEO](https://github.com/crawlseo/crawlseo): Plataforma open source de monitoramento de SEO que reúne dados do Google Search Console, rastreamento de sites, Core Web Vitals, auditoria técnica e acompanhamento de posicionamento.
 - [OpenObserve](https://github.com/openobserve/openobserve): Plataforma open source de observabilidade para centralizar logs, métricas, traces, monitoramento de aplicações, RUM, session replay e observabilidade de LLMs. Oferece implantação simplificada e opção de hospedagem própria.
-- [OpenSEO](https://github.com/every-app/open-seo): Plataforma open source de SEO com pesquisa de palavras-chave, acompanhamento de posicionamento, análise de concorrentes, backlinks e auditoria de sites, incluindo integração com agentes de IA via MCP e skills.
 - [OpenSRE](https://github.com/Tracer-Cloud/opensre): Agente open source voltado à confiabilidade de CI/CD, com recursos de alertas, observabilidade, análise de causa raiz e remediação de incidentes.
 - [Postmortem Templates](https://github.com/dastergon/postmortem-templates): Coleção de modelos para elaboração de relatórios post-mortem após incidentes, com foco em análise de causa raiz, impacto, ações corretivas e melhoria contínua de serviços.
 
