@@ -24,6 +24,7 @@
 - [google/skills](https://github.com/google/skillsm): Skills for AI agents focused on products, services, and technologies within the Google ecosystem.
 - [gstack](https://github.com/garrytan/gstackm): Set of tools and workflows for Claude Code that transforms the coding agent into a team of specialists, with roles such as CEO, Designer, Software Engineer, Engineering Manager, Release Manager, and QA.
 - [Graph Engineering](https://github.com/codejunkie99/graph-engineeringm): Material and workflows for building knowledge graphs and task graphs used by AI agents.
+- [Graphify](https://github.com/Graphify-Labs/graphify): Tool for AI agents that transforms codebases, documents, and multimedia files into navigable knowledge graphs, facilitating project understanding, dependency discovery, and context retrieval.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agentm): AI agent from Nous Research, designed to evolve through usage and support different tasks using models and tools.
 - [LobeHub](https://github.com/lobehub/lobehubm): AI super-agent platform that allows specialized assistants to be integrated into team conversation and collaboration environments.
 - [n8n](https://github.com/n8n-io/n8nm): Workflow automation platform with native AI capabilities, integrations with hundreds of services, and options for cloud-based or self-hosted execution.
