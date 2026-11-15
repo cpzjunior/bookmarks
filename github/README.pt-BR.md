@@ -57,6 +57,7 @@
 - [Book to Skill](https://github.com/virgiliojr94/book-to-skill): Ferramenta que transforma livros técnicos em PDF em skills para Claude Code, facilitando consulta, estudo e aplicação do conteúdo durante o trabalho.
 - [BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD): Método de desenvolvimento ágil orientado por IA, com práticas para estruturar o ciclo de desenvolvimento de software.
 - [Caveman](https://github.com/JuliusBrussee/caveman): Skill e proxy para agentes de programação que reduz o consumo de tokens por meio de respostas mais concisas.
+- [Claude Code](https://github.com/anthropics/claude-code): Agente de programação desenvolvido pela Anthropic que opera diretamente no terminal, IDE ou GitHub. Utiliza modelos Claude para compreender bases de código, implementar funcionalidades, corrigir problemas, executar testes, explicar código e automatizar tarefas de desenvolvimento e operações Git por meio de instruções em linguagem natural.
 - [Claude Code Templates](https://github.com/davila7/claude-code-templates): Registro open source e CLI para descobrir e configurar componentes do Claude Code, incluindo agentes, comandos, skills, hooks, servidores MCP e configurações.
 - [Claude Code Tips](https://github.com/ykdojo/claude-code-tips): Mais de 45 dicas para utilizar Claude Code, desde funcionalidades básicas até técnicas avançadas, incluindo automação e skills para atividades cotidianas de desenvolvimento.
 - [Claude Mem](https://github.com/thedotmack/claude-mem): Sistema de contexto persistente para agentes que captura atividades das sessões, comprime informações e recupera contexto relevante em sessões futuras.
@@ -142,6 +143,7 @@
 - [Dapper](https://github.com/DapperLib/Dapper): Micro-ORM para .NET que simplifica o mapeamento entre resultados de consultas SQL e objetos da aplicação, mantendo controle direto sobre os comandos SQL.
 - [Entity Framework Core](https://github.com/dotnet/efcore): ORM moderno para .NET que permite mapear objetos para bancos de dados, executar consultas com LINQ, acompanhar alterações, persistir dados e gerenciar migrações de schema.
 - [Estud](https://github.com/ZaqueuCavalcante/estud): Plataforma de gestão educacional desenvolvida com tecnologias do ecossistema .NET e aplicações web.
+- [pgModeler](https://github.com/nullptrlabs/pgmodeler): Ferramenta open source e multiplataforma para modelagem visual de bancos de dados PostgreSQL. Permite criar diagramas entidade-relacionamento, definir estruturas de tabelas e relacionamentos, gerar scripts DDL e realizar engenharia reversa de schemas existentes.
 
 ## Blockchain e Web3
 
