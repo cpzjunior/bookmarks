@@ -57,6 +57,7 @@
 - [Book to Skill](https://github.com/virgiliojr94/book-to-skillm): Tool that transforms technical books in PDF format into Claude Code skills, facilitating content lookup, study, and application during work.
 - [BMAD Method](https://github.com/bmad-code-org/BMAD-METHODm): AI-driven agile development method, with practices for structuring the software development lifecycle.
 - [Caveman](https://github.com/JuliusBrussee/cavemanm): Skill and proxy for coding agents that reduces token consumption through more concise responses.
+- [Claude Code](https://github.com/anthropics/claude-code): A coding agent developed by Anthropic that operates directly in the terminal, IDE, or GitHub. It uses Claude models to understand codebases, implement features, fix issues, run tests, explain code, and automate development tasks and Git operations through natural language instructions.
 - [Claude Code Templates](https://github.com/davila7/claude-code-templatesm): Open-source registry and CLI for discovering and configuring Claude Code components, including agents, commands, skills, hooks, MCP servers, and settings.
 - [Claude Code Tips](https://github.com/ykdojo/claude-code-tipsm): More than 45 tips for using Claude Code, from basic features to advanced techniques, including automation and skills for everyday development activities.
 - [Claude Mem](https://github.com/thedotmack/claude-memm): Persistent context system for agents that captures session activities, compresses information, and retrieves relevant context in future sessions.
@@ -142,6 +143,7 @@
 - [Dapper](https://github.com/DapperLib/Dapper): Micro-ORM for .NET that simplifies mapping SQL query results to application objects while maintaining direct control over SQL commands.
 - [Entity Framework Core](https://github.com/dotnet/efcore): Modern ORM for .NET that allows mapping objects to databases, executing queries with LINQ, tracking changes, persisting data, and managing schema migrations.
 - [Estud](https://github.com/ZaqueuCavalcante/estud): Educational management platform developed using technologies from the .NET ecosystem and web applications.
+- [pgModeler](https://github.com/nullptrlabs/pgmodeler): An open-source, cross-platform tool for visual modeling of PostgreSQL databases. It allows you to create entity-relationship diagrams, define table structures and relationships, generate DDL scripts, and perform reverse engineering of existing schemas.
 
 ## Blockchain and Web3
 
