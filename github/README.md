@@ -87,6 +87,7 @@
 - [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpcm): Resources and tools for developing applications and services using gRPC and Protocol Buffers.
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-serversm): Collection of MCP (Model Context Protocol) servers for connecting AI models and agents to tools, services, and data sources.
 - [Awesome REST](https://github.com/marmelab/awesome-restm): Collaborative list of materials, tools, and references on REST API architecture, development, testing, and performance.
+- [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp): MCP server and CLI that allow AI agents to control and inspect Google Chrome, automate browsing, analyze network requests, debug web applications, capture screenshots, and investigate performance issues using Chrome DevTools.
 - [BrasilAPI](https://github.com/BrasilAPI/BrasilAPIm): Open-source project providing free APIs for retrieving Brazilian information and integrating it into applications.
 - [Public APIs](https://github.com/public-apis/public-apism): Collaborative catalog of free public APIs, organized by category to facilitate the discovery of services and data sources.
 - [reddit-ads-mcp](https://github.com/leolima77/reddit-ads-mcp): Read-only MCP server for integration with the Reddit Ads API, allowing users to query campaigns, ads, communities, spending, performance metrics, and tracking parameters using AI assistants.
@@ -104,7 +105,9 @@
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-xm): Tutorials for recreating well-known technologies from scratch and understanding their concepts and inner workings.
 - [cracked](https://github.com/nishant-Tiwari24/crackedm): Tool for preparing for technology hiring processes, featuring company-specific mock interviews, coding challenges (Online Assessments) with hidden tests, and critical resume analysis, directly from the terminal.
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCampm): Open-source educational platform with free programming, mathematics, and computer science courses and exercises.
+- [FreeLingo](https://github.com/artcc/freelingo): Open-source language learning platform with a structured curriculum based on CEFR levels (A1–C2), personalized study plans, an AI tutor with voice conversations, and grammar, vocabulary, comprehension, and spaced repetition exercises.
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-booksm): Collaborative catalog of free books on programming and software development.
+- [Lastbook](https://github.com/Immortal-Protocols/lastbook): Offline knowledge library for Windows, macOS, and Linux, bringing together manuals, encyclopedias, videos, maps, and practical guides, with search and a local AI assistant for accessing information without an internet connection.
 - [Made With ML](https://github.com/GokuMohandas/Made-With-MLm): Practical material for learning how to develop, deploy, and evolve machine learning applications in production environments.
 - [Michael0x2a/curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resourcesm): Organized collection of materials and references for learning programming.
 - [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-herom): Educational material by Andrej Karpathy for learning neural networks, from fundamentals to more advanced concepts.
@@ -265,6 +268,7 @@
 - [MarkItDown](https://github.com/microsoft/markitdown): Python library for converting documents and files in different formats, including Office documents and PDFs, into Markdown.
 - [MinerU](https://github.com/opendatalab/MinerU): Tool for converting complex documents, such as PDFs and Office files, into Markdown or JSON suitable for LLM processing and agentic workflows.
 - [Pandoc](https://github.com/jgm/pandoc): Universal document converter capable of transforming content between various markup, document, and presentation formats.
+- [SignuDoc](https://github.com/NYLLON-SOFTWARE/SignuDoc): Open-source, self-hosted electronic PDF document signing platform, featuring signer management, approval workflows, templates, audit trails, completion certificates, and API integration.
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): Web application for PDF file manipulation, offering editing, conversion, merging, splitting, and OCR features, with self-hosting support.
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR): Free, offline optical character recognition (OCR) software, supporting screenshots, batch image processing, and PDF document recognition.
 
@@ -298,6 +302,7 @@
 - [Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers): Selection of YouTube channels featuring educational content on development, computer science, machine learning, gaming, and security.
 - [GamuxWiki](https://github.com/GamuxUnicamp/Gamux-Wiki): Wiki of the Unicamp Gamux community, with information and materials related to its activities.
 - [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas): Collection of portfolio website references for developers and designers, useful for exploring layouts, personal presentations, and project ideas.
+- [Skill Icons](https://github.com/tandpfun/skill-icons): Icon library for development technologies and tools that allows users to visually showcase the programming languages, frameworks, platforms, and tools they use in profiles, GitHub READMEs, and resumes.
 - [Solution Architect Road Map](https://github.com/NikAshanin/Solution-Architect-Road-Map): Professional development roadmap for solution architects, covering the skills and knowledge required for the role.
 
 ## Information Security and Privacy
@@ -330,6 +335,7 @@
 
 - [Agent Rules Books](https://github.com/ciembor/agent-rules-books): Collection of rules and skills for coding agents, based on references such as Clean Code, Refactoring, DDD, Clean Architecture, and DDIA.
 - [E2E](https://github.com/e2e-inc/e2e): End-to-end test automation framework for web and mobile applications, with support for interface testing and automated workflows.
+- [OpenCodeReview](https://github.com/alibaba/open-code-review): AI-powered code review tool that analyzes Git changes and complete files, using configurable agents and LLM models to identify defects and generate structured comments with line-level precision.
 - [Omnidiff](https://github.com/ivankovic/omnidiff): Structural code comparison tool that uses abstract syntax trees (ASTs) to identify differences more accurately.
 - [Replica Skill](https://github.com/Jakeschincariol/replica-skill): Collection of skills for agents supporting reverse engineering and application recreation, including feature analysis, implementation, testing, and bug fixing.
 - [Reversa](https://github.com/sandeco/reversa): Tool for transforming legacy systems into executable specifications, enabling behavior documentation and providing structured context to coding agents.
