@@ -139,6 +139,7 @@
 - [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui): Interface gráfica para remoção e separação de vocais de músicas utilizando redes neurais profundas.
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio): Alternativa open source e totalmente local a serviços de voz sintética, com clonagem e criação de vozes, dublagem, ditado, transcrição e produção de audiolivros.
 - [openai/whisper](https://github.com/openai/whisper): Modelo de reconhecimento automático de fala capaz de transcrever áudio em diferentes idiomas.
+- [Sokuji](https://github.com/kizuna-ai-lab/sokuji): Aplicativo de tradução simultânea de voz em tempo real, com detecção automática de idiomas e integração com plataformas de videoconferência, oferecendo processamento por serviços de IA ou execução totalmente local.
 - [YuE2 Studio](https://github.com/timoncool/YuE2-Studio): Aplicação local de geração de músicas com IA, executada em GPU, com suporte a vocais, partituras editáveis, versões cover e reprodução das composições.
 
 ## Banco de Dados e Desenvolvimento .NET
