@@ -126,6 +126,7 @@
 - [Breakscale](https://github.com/workersio/breakscale): Simulador de system design que permite submeter sistemas a carga e observar seu comportamento, facilitando o aprendizado sobre sistemas distribuídos e filas.
 - [Solution Architecture Patterns](https://github.com/chanakaudaya/solution-architecture-patterns): Coleção de padrões reutilizáveis de arquitetura de soluções, abrangendo integrações, APIs, arquitetura corporativa e cenários específicos de diferentes setores.
 - [Software Architecture Books](https://github.com/mhadidg/software-architecture-books): Lista de livros sobre arquitetura de software, engenharia e design de sistemas.
+- [System Design Academy](https://github.com/systemdesign42/system-design-academy): Material de referência para aprendizado de arquitetura de sistemas, com estudos de caso, diagramas e explicações sobre escalabilidade, sistemas distribuídos, microsserviços, bancos de dados e padrões arquiteturais.
 
 ## Áudio, Vídeo e Multimídia
 
