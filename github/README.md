@@ -66,15 +66,18 @@
 - [Claude Plugins Official](https://github.com/anthropics/claude-plugins-officialm): Official directory of selected Claude Code plugins, maintained by Anthropic.
 - [Claude Squad](https://github.com/smtg-ai/claude-squadm): Tool for managing multiple coding agents in terminals, including Claude Code, Codex, and OpenCode.
 - [ECC](https://github.com/affaan-m/ECCm): Performance optimization system for agent environments, bringing together skills, memory, security, research, and continuous improvement mechanisms.
+- [education-agent-skills](https://github.com/GarethManning/education-agent-skills): Biblioteca de 165 habilidades para agentes de IA, voltadas à educação, pedagogia, ciência da aprendizagem, planejamento curricular e avaliação, com suporte a Claude, Codex e outros agentes compatíveis com o padrão Agent Skills.
 - [Git AI](https://github.com/feder-cr/git-aim): Git version control approach designed for workflows involving AI agents.
 - [Google Elephant Goldfish Model](https://github.com/google/elephant-goldfish-modelm): Open-source plugin to support software design and review activities with agents, including specification-driven workflows.
 - [Humanizer](https://github.com/blader/humanizerm): Skill for agents that reviews text and reduces recurring patterns found in AI-generated writing.
 - [Impeccable](https://github.com/pbakaus/impeccablem): Design vocabulary and set of guidelines for coding agents, with resources for directing, reviewing, and improving interfaces.
+- [Last30Days](https://github.com/mvanhorn/last30days-skill): Skill de pesquisa para agentes de IA que agrega e analisa discussões, tendências e conteúdos recentes de fontes como Reddit, Hacker News, GitHub, X, YouTube e TikTok, gerando relatórios classificados por relevância e engajamento.
 - [Loop Engineering](https://github.com/cobusgreyling/loop-engineeringm): Practical patterns, starter projects, and CLI tools for structuring work cycles and orchestration with coding agents.
 - [mattpocock/skills](https://github.com/mattpocock/skillsm): Collection of skills and practices for development agents, based on software engineering workflows.
 - [My AI Coding Workflow](https://github.com/vaibhav-space/my-ai-coding-workflow): Set of instructions, skills, and prompts for structuring AI-assisted development workflows, using planning, critical review, and implementation auditing stages.
 - [Obsidian Skills](https://github.com/obsidianmd/obsidian-skillsm): Skills for teaching AI agents to interact with Obsidian through its CLI and open formats such as Markdown, Bases, and JSON Canvas.
 - [OpenClaude](https://github.com/Twigpine/openclaudem): Agent-based coding tool designed to run in different environments and use different providers.
+- [Plannotator](https://github.com/backnotprop/plannotator): Ferramenta de revisão e anotação para agentes de programação que permite avaliar planos, especificações, documentos, artefatos HTML e alterações de código, enviando comentários e feedback diretamente ao agente responsável.
 - [remotion-dev/skills](https://github.com/remotion-dev/skillsm): Skills for AI agents to create and manipulate videos using the Remotion framework.
 - [Spec Kit](https://github.com/github/spec-kitm): Toolkit for initiating specification-driven development (SDD) processes and other structured software engineering approaches.
 - [Superpowers](https://github.com/obra/superpowersm): Skills framework and agent-driven software development methodology, with practices for structuring and executing development work.
