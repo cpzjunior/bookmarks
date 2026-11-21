@@ -126,6 +126,7 @@
 - [Breakscale](https://github.com/workersio/breakscale): System design simulator that allows systems to be subjected to load and their behavior observed, facilitating learning about distributed systems and queues.
 - [Solution Architecture Patterns](https://github.com/chanakaudaya/solution-architecture-patterns): Collection of reusable solution architecture patterns, covering integrations, APIs, enterprise architecture, and specific scenarios across different industries.
 - [Software Architecture Books](https://github.com/mhadidg/software-architecture-books): List of books on software architecture, engineering, and systems design.
+- [System Design Academy](https://github.com/systemdesign42/system-design-academy): Reference material for learning system architecture, featuring case studies, diagrams, and explanations of scalability, distributed systems, microservices, databases, and architectural patterns.
 
 ## Audio, Video and Multimedia
 
@@ -138,6 +139,7 @@
 - [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui): Graphical interface for removing and separating vocals from music using deep neural networks.
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio): Fully local, open-source alternative to synthetic voice services, featuring voice cloning and creation, dubbing, dictation, transcription, and audiobook production.
 - [openai/whisper](https://github.com/openai/whisper): Automatic speech recognition model capable of transcribing audio in different languages.
+- [Sokuji](https://github.com/kizuna-ai-lab/sokuji): Real-time simultaneous voice translation application with automatic language detection and integration with video conferencing platforms, offering processing through AI services or fully local execution.
 - [YuE2 Studio](https://github.com/timoncool/YuE2-Studio): Local AI music generation application that runs on a GPU, with support for vocals, editable sheet music, cover versions, and playback of compositions.
 
 ## Database and .NET Development
@@ -181,9 +183,11 @@
 - [Awesome Free LLM APIs](https://github.com/open-free-llm-api/awesome-freellm-apis): Catalog of free APIs for language models, bringing together providers such as Google Gemini, NVIDIA NIM, Groq, and OpenRouter, as well as configuration guides for development tools.
 - [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide): Guide featuring generative AI research references, interview preparation materials, notebooks, and other learning resources.
 - [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain): List of tools and projects using the LangChain framework.
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): Collection of open-source applications built with large language models (LLMs), including autonomous agents, RAG systems, agent teams, and integrations with different model providers.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): Curated list of Machine Learning frameworks, libraries, and tools.
 - [Awesome MLOps](https://github.com/visenger/awesome-mlops): Curated list of references, tools, and materials related to MLOps.
 - [ClawRouter](https://github.com/BlockRunAI/ClawRouter): Language model router designed for autonomous agents, featuring local model selection and support for USDC payments on the Base and Solana networks.
+- [Heretic](https://github.com/p-e-w/heretic): Tool for modifying the behavior of language models without additional training, using mathematical techniques to adjust LLM characteristics, such as response refusals and the tendency toward excessive agreement.
 - [Indra](https://github.com/datalab-to/indra): Compact OCR model for extracting text from documents, with CPU execution and a focus on speed and accuracy.
 - [Langfuse](https://github.com/langfuse/langfuse): Open-source AI engineering platform for gateway, agent observability, evaluations, and prompt management, with support for OpenTelemetry and self-hosting.
 - [llama.cpp](https://github.com/ggml-org/llama.cpp): C/C++ implementation for language model inference, focused on efficient execution across different types of hardware.
