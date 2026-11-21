@@ -3,6 +3,7 @@
 ## Agentes de IA, Automação e Orquestração
 
 - [500 AI Agents Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): Coleção de casos de uso e projetos open source de agentes de IA em diferentes setores, como saúde, finanças, educação e varejo.
+- [Agency Agents](https://github.com/msitarzewski/agency-agents): Coleção de agentes de IA especializados em diferentes áreas profissionais, como engenharia de software, design, marketing, vendas, finanças e gestão de projetos, cada um com instruções, processos de trabalho e entregáveis específicos.
 - [Agent Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator): Plataforma para planejar, executar e supervisionar múltiplos agentes de programação, com suporte a Claude Code, Codex e outras ferramentas, além de aplicações desktop e mobile.
 - [AgentCore Samples](https://github.com/awslabs/agentcore-samples): Exemplos de implementação de agentes de IA em produção com Amazon Bedrock AgentCore, abordando escalabilidade, segurança, identidade, memória e integração.
 - [All Agentic Architectures](https://github.com/FareedKhan-dev/all-agentic-architectures): Biblioteca e material de referência com arquiteturas de IA agentic, incluindo padrões como Reflexion, LATS, GraphRAG, MemGPT e Voyager, além de benchmarks.
@@ -52,6 +53,7 @@
 - [Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skills): Coleção de habilidades para agentes de IA, compatíveis com ferramentas como Claude Code, Codex, Gemini CLI e Cursor.
 - [Awesome Copilot](https://github.com/github/awesome-copilot): Coleção colaborativa de instruções, agentes, skills e configurações para ampliar os recursos do GitHub Copilot.
 - [Awesome Claude Skills](https://github.com/travisvn/awesome-claude-skills): Lista de habilidades, recursos e ferramentas para personalizar fluxos de trabalho com Claude, especialmente Claude Code.
+- [Awesome Codex Subagents](https://github.com/VoltAgent/awesome-codex-subagents): Coleção de subagentes especializados para OpenAI Codex, organizados por áreas como desenvolvimento, arquitetura, infraestrutura, segurança, dados e inteligência artificial.
 - [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills): Catálogo categorizado de habilidades disponíveis no ecossistema OpenClaw.
 - [Antigravity Awesome Skills](https://github.com/benjaminasterA/antigravity-awesome-skills): Coleção de habilidades para ampliar os recursos de agentes e assistentes de desenvolvimento.
 - [Book to Skill](https://github.com/virgiliojr94/book-to-skill): Ferramenta que transforma livros técnicos em PDF em skills para Claude Code, facilitando consulta, estudo e aplicação do conteúdo durante o trabalho.
@@ -70,6 +72,7 @@
 - [Impeccable](https://github.com/pbakaus/impeccable): Vocabulário e conjunto de orientações de design para agentes de programação, com recursos para direcionar, revisar e aprimorar interfaces.
 - [Loop Engineering](https://github.com/cobusgreyling/loop-engineering): Padrões práticos, projetos iniciais e ferramentas CLI para estruturar ciclos de trabalho e orquestração com agentes de programação.
 - [mattpocock/skills](https://github.com/mattpocock/skills): Coleção de habilidades e práticas para agentes de desenvolvimento, baseada em fluxos de trabalho de engenharia de software.
+- [My AI Coding Workflow](https://github.com/vaibhav-space/my-ai-coding-workflow): Conjunto de instruções, skills e prompts para estruturar fluxos de desenvolvimento com agentes de IA, utilizando etapas de planejamento, revisão crítica e auditoria da implementação.
 - [Obsidian Skills](https://github.com/obsidianmd/obsidian-skills): Skills para ensinar agentes de IA a interagir com o Obsidian por meio de sua CLI e de formatos abertos, como Markdown, Bases e JSON Canvas.
 - [OpenClaude](https://github.com/Twigpine/openclaude): Ferramenta de programação com agentes projetada para executar em diferentes ambientes e utilizar diferentes provedores.
 - [remotion-dev/skills](https://github.com/remotion-dev/skills): Habilidades para agentes de IA criarem e manipularem vídeos com o framework Remotion.
