@@ -3,6 +3,7 @@
 ## AI Agents, Automation and Orchestration
 
 - [500 AI Agents Projects](https://github.com/ashishpatel26/500-AI-Agents-Projectsm): Collection of AI agent use cases and open-source projects across different industries, such as healthcare, finance, education, and retail.
+- [Agency Agents](https://github.com/msitarzewski/agency-agents): Collection of AI agents specialized in different professional fields, such as software engineering, design, marketing, sales, finance, and project management, each with specific instructions, workflows, and deliverables.
 - [Agent Orchestrator](https://github.com/OrchestratorInc/agent-orchestratorm): Platform for planning, executing, and supervising multiple coding agents, with support for Claude Code, Codex, and other tools, as well as desktop and mobile applications.
 - [AgentCore Samples](https://github.com/awslabs/agentcore-samplesm): Examples of production-ready AI agent implementations using Amazon Bedrock AgentCore, covering scalability, security, identity, memory, and integration.
 - [All Agentic Architectures](https://github.com/FareedKhan-dev/all-agentic-architecturesm): Library and reference material covering agentic AI architectures, including patterns such as Reflexion, LATS, GraphRAG, MemGPT, and Voyager, as well as benchmarks.
@@ -52,6 +53,7 @@
 - [Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skillsm): Collection of skills for AI agents, compatible with tools such as Claude Code, Codex, Gemini CLI, and Cursor.
 - [Awesome Copilot](https://github.com/github/awesome-copilotm): Collaborative collection of instructions, agents, skills, and configurations to extend GitHub Copilot's capabilities.
 - [Awesome Claude Skills](https://github.com/travisvn/awesome-claude-skillsm): List of skills, resources, and tools for customizing workflows with Claude, especially Claude Code.
+- [Awesome Codex Subagents](https://github.com/VoltAgent/awesome-codex-subagents): Collection of specialized subagents for OpenAI Codex, organized into areas such as development, architecture, infrastructure, security, data, and artificial intelligence.
 - [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skillsm): Categorized catalog of skills available in the OpenClaw ecosystem.
 - [Antigravity Awesome Skills](https://github.com/benjaminasterA/antigravity-awesome-skillsm): Collection of skills for expanding the capabilities of development agents and assistants.
 - [Book to Skill](https://github.com/virgiliojr94/book-to-skillm): Tool that transforms technical books in PDF format into Claude Code skills, facilitating content lookup, study, and application during work.
@@ -70,6 +72,7 @@
 - [Impeccable](https://github.com/pbakaus/impeccablem): Design vocabulary and set of guidelines for coding agents, with resources for directing, reviewing, and improving interfaces.
 - [Loop Engineering](https://github.com/cobusgreyling/loop-engineeringm): Practical patterns, starter projects, and CLI tools for structuring work cycles and orchestration with coding agents.
 - [mattpocock/skills](https://github.com/mattpocock/skillsm): Collection of skills and practices for development agents, based on software engineering workflows.
+- [My AI Coding Workflow](https://github.com/vaibhav-space/my-ai-coding-workflow): Set of instructions, skills, and prompts for structuring AI-assisted development workflows, using planning, critical review, and implementation auditing stages.
 - [Obsidian Skills](https://github.com/obsidianmd/obsidian-skillsm): Skills for teaching AI agents to interact with Obsidian through its CLI and open formats such as Markdown, Bases, and JSON Canvas.
 - [OpenClaude](https://github.com/Twigpine/openclaudem): Agent-based coding tool designed to run in different environments and use different providers.
 - [remotion-dev/skills](https://github.com/remotion-dev/skillsm): Skills for AI agents to create and manipulate videos using the Remotion framework.
@@ -234,6 +237,7 @@
 ## Design, UX and Diagrams
 
 - [Archify](https://github.com/tt-a1i/archify): Skill for transforming ideas, plans, or codebases into interactive diagrams, supporting architecture documentation and system design.
+- [Astryx](https://github.com/meta/astryx): Meta's open-source design system with accessible and customizable components for React, offering support for themes, dark mode, and integration with AI-assisted development tools.
 - [Awesome Nano Banana Pro Prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts): Prompt library with visual examples for image generation using Google's Gemini Nano Banana models.
 - [draw.io](https://github.com/jgraph/drawio): Browser-based diagram editor with features for creating flowcharts, technical diagrams, architecture maps, and other visual elements.
 - [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp): MCP integration that connects AI agents to Excalidraw and enables diagram creation and manipulation.
