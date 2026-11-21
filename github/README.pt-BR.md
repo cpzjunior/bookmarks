@@ -183,9 +183,11 @@
 - [Awesome Free LLM APIs](https://github.com/open-free-llm-api/awesome-freellm-apis): Catálogo de APIs gratuitas para modelos de linguagem, reunindo provedores como Google Gemini, NVIDIA NIM, Groq e OpenRouter, além de orientações de configuração para ferramentas de desenvolvimento.
 - [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide): Guia com referências de pesquisa em IA generativa, materiais para entrevistas, notebooks e outros recursos de aprendizado.
 - [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain): Lista de ferramentas e projetos que utilizam o framework LangChain.
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): Coleção de aplicações open source construídas com grandes modelos de linguagem (LLMs), incluindo agentes autônomos, sistemas RAG, equipes de agentes e integrações com diferentes provedores de modelos.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): Lista curada de frameworks, bibliotecas e ferramentas de Machine Learning.
 - [Awesome MLOps](https://github.com/visenger/awesome-mlops): Lista curada de referências, ferramentas e materiais relacionados a MLOps.
 - [ClawRouter](https://github.com/BlockRunAI/ClawRouter): Roteador de modelos de linguagem voltado a agentes autônomos, com seleção local de modelos e suporte a pagamentos via USDC nas redes Base e Solana.
+- [Heretic](https://github.com/p-e-w/heretic): Ferramenta para modificar o comportamento de modelos de linguagem sem treinamento adicional, utilizando técnicas matemáticas para ajustar características dos LLMs, como recusas de respostas e tendência à concordância excessiva.
 - [Indra](https://github.com/datalab-to/indra): Modelo compacto de OCR para extração de texto de documentos, com execução em CPU e foco em velocidade e precisão.
 - [Langfuse](https://github.com/langfuse/langfuse): Plataforma open source de engenharia de IA para gateway, observabilidade de agentes, avaliações e gerenciamento de prompts, com suporte a OpenTelemetry e hospedagem própria.
 - [llama.cpp](https://github.com/ggml-org/llama.cpp): Implementação em C/C++ para inferência de modelos de linguagem, com foco em execução eficiente em diferentes tipos de hardware.
