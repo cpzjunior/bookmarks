@@ -347,3 +347,7 @@
 - [idol-sdk](https://github.com/speridlabs/idol-sdk): SDK and demo for converting a single image into a three-dimensional representation based on 3D Gaussian Splatting.
 - [microduck](https://github.com/pollen-robotics/microduck): Project for a small, duck-shaped bipedal robot designed for robotics experimentation.
 - [text-to-cad](https://github.com/earthtojake/text-to-cad): Tool that uses artificial intelligence to transform textual descriptions into CAD models of physical products.
+
+## Web Scraping and Data Extraction
+
+- [Google Maps Scraper](https://github.com/gosom/google-maps-scraper): Open-source tool developed in Go for automated extraction of information from Google Maps, allowing users to collect business data such as names, addresses, phone numbers, websites, ratings, geographic coordinates, and reviews.
