@@ -155,6 +155,10 @@
 - [Bitcoin Core](https://github.com/bitcoin/bitcoin): Repositório oficial de desenvolvimento do Bitcoin Core, implementação de referência que participa da validação e operação da rede Bitcoin.
 - [Solana](https://github.com/solana-labs/solana): Implementação da blockchain Solana, projetada para suportar aplicações e mercados descentralizados com foco em desempenho e escalabilidade.
 
+## Captura de Movimento e Animação 3D
+
+- [RGB MoCap](https://github.com/toyxyz/toyxyz_RGBMocap): Ferramenta de captura de movimento que utiliza inteligência artificial para reconstruir movimentos humanos em 3D a partir de vídeos, permitindo rastrear pessoas, gerar animações e exportar resultados para ferramentas como Blender.
+
 ## Cloud, DevOps e Infraestrutura
 
 - [AutoMQ](https://github.com/AutoMQ/automq): Implementação de Kafka com armazenamento desacoplado baseado em S3, oferecendo escalabilidade automática e redução de custos de infraestrutura.
@@ -241,6 +245,7 @@
 ## Design, UX e Diagramas
 
 - [Archify](https://github.com/tt-a1i/archify): Skill para transformar ideias, planos ou bases de código em diagramas interativos, apoiando a documentação de arquitetura e o desenho de sistemas.
+- [Astryx](https://github.com/meta/astryx): Design system open source da Meta com componentes acessíveis e personalizáveis para React, oferecendo suporte a temas, modo escuro e integração com ferramentas de desenvolvimento assistido por IA.
 - [Awesome Nano Banana Pro Prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts): Biblioteca de prompts com exemplos visuais para geração de imagens usando os modelos Nano Banana do Google Gemini.
 - [draw.io](https://github.com/jgraph/drawio): Editor de diagramas executado no navegador, com recursos para criação de fluxogramas, diagramas técnicos, mapas de arquitetura e outros elementos visuais.
 - [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp): Integração MCP para conectar agentes de IA ao Excalidraw e permitir a criação e manipulação de diagramas.
@@ -342,3 +347,7 @@
 - [idol-sdk](https://github.com/speridlabs/idol-sdk): SDK e demonstração para converter uma única imagem em uma representação tridimensional baseada em 3D Gaussian Splatting.
 - [microduck](https://github.com/pollen-robotics/microduck): Projeto de um pequeno robô bípede em formato de pato, voltado à experimentação com robótica.
 - [text-to-cad](https://github.com/earthtojake/text-to-cad): Ferramenta que utiliza inteligência artificial para transformar descrições textuais em modelos CAD de produtos físicos.
+
+## Web Scraping e Extração de Dados
+
+- [Google Maps Scraper](https://github.com/gosom/google-maps-scraper): Ferramenta open source desenvolvida em Go para extração automatizada de informações do Google Maps, permitindo coletar dados de estabelecimentos, como nomes, endereços, telefones, sites, avaliações, coordenadas geográficas e comentários.
