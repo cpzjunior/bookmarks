@@ -66,15 +66,18 @@
 - [Claude Plugins Official](https://github.com/anthropics/claude-plugins-official): Diretório oficial, mantido pela Anthropic, de plugins selecionados para Claude Code.
 - [Claude Squad](https://github.com/smtg-ai/claude-squad): Ferramenta para gerenciar múltiplos agentes de programação em terminais, incluindo Claude Code, Codex e OpenCode.
 - [ECC](https://github.com/affaan-m/ECC): Sistema de otimização de desempenho para ambientes de agentes, reunindo skills, memória, segurança, pesquisa e mecanismos de melhoria contínua.
+- [education-agent-skills](https://github.com/GarethManning/education-agent-skills): Biblioteca de 165 habilidades para agentes de IA, voltadas à educação, pedagogia, ciência da aprendizagem, planejamento curricular e avaliação, com suporte a Claude, Codex e outros agentes compatíveis com o padrão Agent Skills.
 - [Git AI](https://github.com/feder-cr/git-ai): Abordagem de controle de versão Git projetada para fluxos de trabalho com agentes de IA.
 - [Google Elephant Goldfish Model](https://github.com/google/elephant-goldfish-model): Plugin open source para apoiar atividades de projeto e revisão de software com agentes, incluindo fluxos orientados a especificações.
 - [Humanizer](https://github.com/blader/humanizer): Skill para agentes que revisa textos e reduz padrões recorrentes de escrita gerada por IA.
 - [Impeccable](https://github.com/pbakaus/impeccable): Vocabulário e conjunto de orientações de design para agentes de programação, com recursos para direcionar, revisar e aprimorar interfaces.
+- [Last30Days](https://github.com/mvanhorn/last30days-skill): Skill de pesquisa para agentes de IA que agrega e analisa discussões, tendências e conteúdos recentes de fontes como Reddit, Hacker News, GitHub, X, YouTube e TikTok, gerando relatórios classificados por relevância e engajamento.
 - [Loop Engineering](https://github.com/cobusgreyling/loop-engineering): Padrões práticos, projetos iniciais e ferramentas CLI para estruturar ciclos de trabalho e orquestração com agentes de programação.
 - [mattpocock/skills](https://github.com/mattpocock/skills): Coleção de habilidades e práticas para agentes de desenvolvimento, baseada em fluxos de trabalho de engenharia de software.
 - [My AI Coding Workflow](https://github.com/vaibhav-space/my-ai-coding-workflow): Conjunto de instruções, skills e prompts para estruturar fluxos de desenvolvimento com agentes de IA, utilizando etapas de planejamento, revisão crítica e auditoria da implementação.
 - [Obsidian Skills](https://github.com/obsidianmd/obsidian-skills): Skills para ensinar agentes de IA a interagir com o Obsidian por meio de sua CLI e de formatos abertos, como Markdown, Bases e JSON Canvas.
 - [OpenClaude](https://github.com/Twigpine/openclaude): Ferramenta de programação com agentes projetada para executar em diferentes ambientes e utilizar diferentes provedores.
+- [Plannotator](https://github.com/backnotprop/plannotator): Ferramenta de revisão e anotação para agentes de programação que permite avaliar planos, especificações, documentos, artefatos HTML e alterações de código, enviando comentários e feedback diretamente ao agente responsável.
 - [remotion-dev/skills](https://github.com/remotion-dev/skills): Habilidades para agentes de IA criarem e manipularem vídeos com o framework Remotion.
 - [Spec Kit](https://github.com/github/spec-kit): Toolkit para iniciar processos de desenvolvimento orientado a especificações (SDD) e outras abordagens estruturadas de engenharia de software.
 - [Superpowers](https://github.com/obra/superpowers): Framework de skills e metodologia de desenvolvimento de software orientada a agentes, com práticas para estruturar e executar o trabalho de desenvolvimento.
@@ -85,6 +88,7 @@
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers): Coleção de servidores MCP (Model Context Protocol) para conectar modelos e agentes de IA a ferramentas, serviços e fontes de dados.
 - [Awesome REST](https://github.com/marmelab/awesome-rest): Lista colaborativa de materiais, ferramentas e referências sobre arquitetura, desenvolvimento, testes e desempenho de APIs REST.
 - [BrasilAPI](https://github.com/BrasilAPI/BrasilAPI): Projeto open source que disponibiliza APIs gratuitas para consulta de informações brasileiras e integração em aplicações.
+- [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp): Servidor MCP e CLI que permitem aos agentes de IA controlar e inspecionar o Google Chrome, automatizar navegação, analisar requisições de rede, depurar aplicações web, capturar screenshots e investigar problemas de desempenho utilizando Chrome DevTools.
 - [Public APIs](https://github.com/public-apis/public-apis): Catálogo colaborativo de APIs públicas e gratuitas, organizado por categorias para facilitar a descoberta de serviços e fontes de dados.
 - [reddit-ads-mcp](https://github.com/leolima77/reddit-ads-mcp): Servidor MCP somente leitura para integração com a API de anúncios do Reddit, permitindo consultar campanhas, anúncios, comunidades, gastos, métricas de desempenho e parâmetros de rastreamento utilizando assistentes de IA.
 - [Traccar](https://github.com/traccar/traccar): Plataforma open source de rastreamento GPS, compatível com mais de 200 protocolos de dispositivos e disponível para hospedagem própria ou uso gerenciado.
@@ -101,7 +105,9 @@
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x): Tutoriais para recriar tecnologias conhecidas do zero e compreender seus conceitos e funcionamento interno.
 - [cracked](https://github.com/nishant-Tiwari24/cracked): Ferramenta de preparação para processos seletivos de tecnologia, com entrevistas simuladas por empresa, desafios de programação (Online Assessments) com testes ocultos e análise crítica de currículos, diretamente pelo terminal.
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp): Plataforma educacional de código aberto com cursos e exercícios gratuitos de programação, matemática e ciência da computação.
+- [FreeLingo](https://github.com/artcc/freelingo): Plataforma open source para aprendizagem de idiomas com currículo estruturado nos níveis CEFR (A1–C2), planos de estudo personalizados, tutor de IA com conversação por voz, exercícios de gramática, vocabulário, compreensão e repetição espaçada.
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books): Catálogo colaborativo de livros gratuitos sobre programação e desenvolvimento de software.
+- [Lastbook](https://github.com/Immortal-Protocols/lastbook): Biblioteca de conhecimento offline para Windows, macOS e Linux, reunindo manuais, enciclopédias, vídeos, mapas e guias práticos, com pesquisa e assistente de IA local para consultar informações sem conexão com a internet.
 - [Made With ML](https://github.com/GokuMohandas/Made-With-ML): Material prático para aprender a desenvolver, implantar e evoluir aplicações de machine learning em ambientes de produção.
 - [Michael0x2a/curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources): Coleção organizada de materiais e referências para aprendizado de programação.
 - [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero): Material educacional de Andrej Karpathy para aprender redes neurais desde os fundamentos até conceitos mais avançados.
@@ -262,6 +268,7 @@
 - [MarkItDown](https://github.com/microsoft/markitdown): Biblioteca Python para converter documentos e arquivos de diferentes formatos, incluindo documentos do Office e PDFs, em Markdown.
 - [MinerU](https://github.com/opendatalab/MinerU): Ferramenta para converter documentos complexos, como PDFs e arquivos do Office, em Markdown ou JSON adequado ao processamento por LLMs e workflows agentic.
 - [Pandoc](https://github.com/jgm/pandoc): Conversor universal de documentos capaz de transformar conteúdos entre diversos formatos de marcação, documentos e apresentações.
+- [SignuDoc](https://github.com/NYLLON-SOFTWARE/SignuDoc): Plataforma open source e self-hosted de assinatura eletrônica de documentos PDF, com gerenciamento de signatários, fluxos de aprovação, templates, trilha de auditoria, certificados de conclusão e integração por API.
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): Aplicação web para manipulação de arquivos PDF, oferecendo recursos de edição, conversão, junção, divisão e OCR, com possibilidade de hospedagem própria.
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR): Software gratuito e offline para reconhecimento óptico de caracteres (OCR), com suporte a capturas de tela, processamento em lote de imagens e reconhecimento de documentos PDF.
 
@@ -295,6 +302,7 @@
 - [Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers): Seleção de canais do YouTube com conteúdo educativo sobre desenvolvimento, ciência da computação, machine learning, jogos e segurança.
 - [GamuxWiki](https://github.com/GamuxUnicamp/Gamux-Wiki): Wiki da comunidade Gamux da Unicamp, com informações e materiais relacionados às suas atividades.
 - [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas): Coleção de referências de sites de portfólio para desenvolvedores e designers, útil para explorar layouts, apresentações pessoais e ideias de projetos.
+- [Skill Icons](https://github.com/tandpfun/skill-icons): Biblioteca de ícones de tecnologias e ferramentas de desenvolvimento que permite apresentar visualmente as linguagens de programação, frameworks, plataformas e ferramentas utilizadas em perfis, README do GitHub e currículos.
 - [Solution Architect Road Map](https://github.com/NikAshanin/Solution-Architect-Road-Map): Roteiro de desenvolvimento profissional para arquitetos de soluções, com competências e conhecimentos necessários à função.
 
 ## Segurança da Informação e Privacidade
@@ -305,6 +313,7 @@
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis): Coleção de ferramentas e referências para análise estática e dinâmica de malware, tráfego de rede e inteligência de ameaças.
 - [Awesome Privacy](https://github.com/lissy93/awesome-privacy): Diretório de softwares e serviços voltados à privacidade e segurança digital, incluindo alternativas open source e soluções self-hosted.
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security): Coleção de materiais, ferramentas e referências sobre segurança de aplicações web e testes de penetração.
+- [Claude BugHunter](https://github.com/elementalsouls/Claude-BugHunter): Coleção de skills e comandos para transformar Claude Code em um assistente especializado em bug bounty, pentest e red team, abrangendo reconhecimento, identificação de vulnerabilidades, exploração, validação e elaboração de relatórios de segurança.
 - [CyberStrike](https://github.com/CyberStrikeus/CyberStrike): Plataforma open source de segurança ofensiva com IA para automatizar testes de penetração e atividades de red team.
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra): Framework de engenharia reversa para análise de binários, descompilação e investigação de software.
 - [OneCLI](https://github.com/onecli/onecli): Plataforma de execução isolada de agentes de IA para equipes, com foco em segurança, gerenciamento de segredos e provisionamento de ambientes individuais.
@@ -327,6 +336,7 @@
 - [Agent Rules Books](https://github.com/ciembor/agent-rules-books): Coleção de regras e habilidades para agentes de programação, baseadas em referências como Clean Code, Refactoring, DDD, Clean Architecture e DDIA.
 - [E2E](https://github.com/e2e-inc/e2e): Framework de automação de testes end-to-end para aplicações web e mobile, com recursos para testes de interface e fluxos automatizados.
 - [Omnidiff](https://github.com/ivankovic/omnidiff): Ferramenta de comparação estrutural de código que utiliza árvores sintáticas abstratas (AST) para identificar diferenças de forma mais precisa.
+- [OpenCodeReview](https://github.com/alibaba/open-code-review): Ferramenta de revisão de código com IA que analisa alterações Git e arquivos completos, utilizando agentes e modelos LLM configuráveis para identificar defeitos e gerar comentários estruturados com precisão em nível de linha.
 - [Replica Skill](https://github.com/Jakeschincariol/replica-skill): Coleção de skills para agentes que apoiam a engenharia reversa e recriação de aplicações, incluindo análise de funcionalidades, implementação, testes e correção de problemas.
 - [Reversa](https://github.com/sandeco/reversa): Ferramenta para transformar sistemas legados em especificações executáveis, permitindo documentar comportamento e fornecer contexto estruturado a agentes de programação.
 - [Tapflow](https://github.com/jo-duchan/tapflow): Plataforma self-hosted para disponibilizar simuladores de dispositivos iOS e Android via streaming, facilitando testes mobile e atividades de QA em equipe.
