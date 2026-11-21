@@ -155,6 +155,10 @@
 - [Bitcoin Core](https://github.com/bitcoin/bitcoin): Official Bitcoin Core development repository, the reference implementation involved in validating and operating the Bitcoin network.
 - [Solana](https://github.com/solana-labs/solana): Implementation of the Solana blockchain, designed to support decentralized applications and markets with a focus on performance and scalability.
 
+## Motion Capture and 3D Animation
+
+- [RGB MoCap](https://github.com/toyxyz/toyxyz_RGBMocap): Motion capture tool that uses artificial intelligence to reconstruct human movements in 3D from videos, allowing users to track people, generate animations, and export results to tools such as Blender.
+
 ## Cloud, DevOps and Infrastructure
 
 - [AutoMQ](https://github.com/AutoMQ/automq): Kafka implementation with decoupled S3-based storage, providing automatic scalability and reduced infrastructure costs.
