@@ -335,6 +335,7 @@
 
 - [Agent Rules Books](https://github.com/ciembor/agent-rules-books): Coleção de regras e habilidades para agentes de programação, baseadas em referências como Clean Code, Refactoring, DDD, Clean Architecture e DDIA.
 - [E2E](https://github.com/e2e-inc/e2e): Framework de automação de testes end-to-end para aplicações web e mobile, com recursos para testes de interface e fluxos automatizados.
+- [mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers): Framework de testes exploratórios para aplicações mobile com agentes Claude Code, executados em simuladores iOS e emuladores Android para identificar falhas em fluxos, layouts, traduções e acessibilidade.
 - [Omnidiff](https://github.com/ivankovic/omnidiff): Ferramenta de comparação estrutural de código que utiliza árvores sintáticas abstratas (AST) para identificar diferenças de forma mais precisa.
 - [OpenCodeReview](https://github.com/alibaba/open-code-review): Ferramenta de revisão de código com IA que analisa alterações Git e arquivos completos, utilizando agentes e modelos LLM configuráveis para identificar defeitos e gerar comentários estruturados com precisão em nível de linha.
 - [Replica Skill](https://github.com/Jakeschincariol/replica-skill): Coleção de skills para agentes que apoiam a engenharia reversa e recriação de aplicações, incluindo análise de funcionalidades, implementação, testes e correção de problemas.
