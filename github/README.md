@@ -49,6 +49,7 @@
 - [Agent Rules Books](https://github.com/ciembor/agent-rules-booksm): Collection of rules and skills for coding agents, based on references such as Clean Code, Refactoring, DDD, Clean Architecture, and DDIA.
 - [Agents](https://github.com/wshobson/agentsm): Collection of plugins, agents, skills, and commands for different AI-assisted development tools, with Markdown definitions and mechanisms for generation, validation, and evaluation.
 - [AI Memory](https://github.com/akitaonrails/ai-memorym): Long-term memory solution for coding agent CLIs, facilitating context persistence and work handoffs between different providers.
+- [antialgorithm](https://github.com/mankidev/antialgorithm): A skill for AI agents that encourages the exploration of creative alternatives, avoiding generic responses and predictable choices when creating names, ideas, stories, games, and interfaces, while promoting more original and context-aware solutions.
 - [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skillsm): Directory of tutorials, guides, and collections of skills for AI agents.
 - [Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skillsm): Collection of skills for AI agents, compatible with tools such as Claude Code, Codex, Gemini CLI, and Cursor.
 - [Awesome Copilot](https://github.com/github/awesome-copilotm): Collaborative collection of instructions, agents, skills, and configurations to extend GitHub Copilot's capabilities.
@@ -181,6 +182,7 @@
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted): Directory of open-source network services and web applications that can be hosted on your own infrastructure.
 - [Awesome Shell](https://github.com/alebcay/awesome-shell): Tools, frameworks, utilities, and reference materials for command-line interfaces and environments such as Bash, Fish, and Zsh.
 - [Awesome SSH](https://github.com/moul/awesome-ssh): Resources, tools, and references for SSH, OpenSSH, authentication, and remote connection administration.
+- [DataCat](https://github.com/replit/datacat): An open-source, self-hosted observability platform that centralizes metrics, logs, distributed traces, dashboards, and alerts, with support for OpenTelemetry, Datadog compatibility, and PostgreSQL or ClickHouse storage.
 - [Free for Dev](https://github.com/ripienaar/free-for-dev): List of SaaS, PaaS, and IaaS services offering free plans relevant to development and operations.
 - [GitHub Gitignore](https://github.com/github/gitignore): Collection of `.gitignore` file templates for different languages, frameworks, and tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): Extensive collection of tools, manuals, cheatsheets, commands, references, and resources for infrastructure, DevOps, security, and systems administration professionals.
